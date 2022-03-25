@@ -1,0 +1,49 @@
+********************* August 07 Observing Session - beginning 22:18:21 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)********************* August 07 Observing Session - beginning 22:25:58 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596839158|Aug 07 22:25:58|30|114.914326|45.980536|80.122515|6.218292|19.741556448759368|314.383608020826841|-28.987070|554.361344|554.9081601596839159|Aug 07 22:25:59|30|114.914326|45.980536|80.122515|6.218292|19.739295838338919|314.385543620882345|-28.989421|53.734144|54.2737921596839159|Aug 07 22:25:59|30|114.914326|45.980536|80.122515|6.218292|19.739295838338919|314.385543620882345|-28.989421|57.020672|57.5613441596839160|Aug 07 22:26:00|30|114.914326|45.980536|80.122515|6.218292|19.737035302666143|314.387479292071873|-28.991771|58.252288|59.0013441596839161|Aug 07 22:26:01|30|114.914326|45.980536|80.122515|6.218292|19.734774841748134|314.389415034394631|-28.994122|56.463872|57.0334721596839161|Aug 07 22:26:01|30|114.914326|45.980536|80.122515|6.218292|19.734774841748134|314.389415034394631|-28.994122|53.762560|54.2781441596839162|Aug 07 22:26:02|30|114.914326|45.980536|80.122515|6.218292|19.732514455589353|314.391350847851982|-28.996473|53.857792|54.4325121596839163|Aug 07 22:26:03|30|114.914326|45.980536|80.122515|6.218292|19.730254144195143|314.393286732444722|-28.998824|53.899776|54.440448

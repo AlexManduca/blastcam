@@ -1,0 +1,121 @@
+********************* August 11 Observing Session - beginning 19:01:20 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1628708480|Aug 11 19:01:20||438.4619521628708482|Aug 11 19:01:22||0.344064********************* August 11 Observing Session - beginning 20:12:43 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1628712763|Aug 11 20:12:43||434.8200961628712765|Aug 11 20:12:45||0.3238401628712766|Aug 11 20:12:46||0.4922881628712767|Aug 11 20:12:47||0.3115521628712769|Aug 11 20:12:49||0.3072001628712770|Aug 11 20:12:50||0.3169281628712772|Aug 11 20:12:52||0.3340801628712773|Aug 11 20:12:53||3.5719681628712775|Aug 11 20:12:55||0.2969601628712776|Aug 11 20:12:56||0.3274241628712777|Aug 11 20:12:57||0.2995201628712779|Aug 11 20:12:59||0.3110401628712780|Aug 11 20:13:00||0.3642881628712782|Aug 11 20:13:02||0.3176961628712783|Aug 11 20:13:03||0.3013121628712785|Aug 11 20:13:05||0.3187201628712786|Aug 11 20:13:06||0.3420161628712787|Aug 11 20:13:07||0.3471361628712789|Aug 11 20:13:09||0.3778561628712790|Aug 11 20:13:10||0.3699201628712792|Aug 11 20:13:12||0.3025921628712793|Aug 11 20:13:13||0.3210241628712795|Aug 11 20:13:15||0.2941441628712796|Aug 11 20:13:16||0.3333121628712797|Aug 11 20:13:17||0.3289601628712799|Aug 11 20:13:19||0.408064********************* August 11 Observing Session - beginning 20:13:21 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1628712800|Aug 11 20:13:20||0.3200001628712801|Aug 11 20:13:21|1628712802|Aug 11 20:13:22||0.358400|450.8526081628712803|Aug 11 20:13:23||0.3351041628712803|Aug 11 20:13:23||0.3248641628712805|Aug 11 20:13:25||0.3212801628712805|Aug 11 20:13:25||0.3338241628712806|Aug 11 20:13:26||0.3438081628712806|Aug 11 20:13:26||0.3386881628712807|Aug 11 20:13:27||0.3299841628712808|Aug 11 20:13:28||0.3448321628712809|Aug 11 20:13:29||0.3315201628712809|Aug 11 20:13:29||0.3435521628712810|Aug 11 20:13:30||0.3320321628712810|Aug 11 20:13:30||0.3563521628712812|Aug 11 20:13:32||0.3440641628712812|Aug 11 20:13:32||0.3543041628712813|Aug 11 20:13:33||0.3166721628712815|Aug 11 20:13:35||0.3246081628712816|Aug 11 20:13:36||0.3338241628712817|Aug 11 20:13:37||0.3143681628712819|Aug 11 20:13:39||4.1400321628712820|Aug 11 20:13:40||0.333056********************* August 11 Observing Session - beginning 20:14:00 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1628712840|Aug 11 20:14:00||437.9072001628712842|Aug 11 20:14:02||0.3179521628712843|Aug 11 20:14:03||0.314880********************* August 11 Observing Session - beginning 20:16:56 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1628713016|Aug 11 20:16:56||435.6270081628713018|Aug 11 20:16:58||0.3363841628713019|Aug 11 20:16:59||0.3202561628713021|Aug 11 20:17:01||0.3438081628713022|Aug 11 20:17:02||0.3146241628713024|Aug 11 20:17:04||0.3458561628713025|Aug 11 20:17:05||0.3548161628713026|Aug 11 20:17:06||0.3453441628713028|Aug 11 20:17:08||0.3338241628713029|Aug 11 20:17:09||0.2995201628713031|Aug 11 20:17:11||0.3573761628713032|Aug 11 20:17:12||0.3335681628713034|Aug 11 20:17:14||0.3980801628713035|Aug 11 20:17:15||0.3164161628713036|Aug 11 20:17:16||0.2908161628713038|Aug 11 20:17:18||0.2938881628713039|Aug 11 20:17:19||0.3072001628713041|Aug 11 20:17:21||0.2923521628713042|Aug 11 20:17:22||0.3402241628713044|Aug 11 20:17:24||0.3084801628713045|Aug 11 20:17:25||0.3235841628713046|Aug 11 20:17:26||0.324608

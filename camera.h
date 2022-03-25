@@ -9,7 +9,7 @@
 #define MIN_PS         6.0       // [arcsec/px]
 #define MAX_PS         7.0		 // [arcsec/px]
 #define STATIC_HP_MASK "/home/blast/Desktop/blastcam/static_hp_mask.txt"
-#define dut1           -0.23
+#define dut1           -0.102300
 
 extern HIDS camera_handle;
 extern int shutting_down;

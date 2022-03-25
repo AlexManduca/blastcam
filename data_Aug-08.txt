@@ -1,0 +1,913 @@
+********************* August 08 Observing Session - beginning 00:33:10 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596846790|Aug 08 00:33:10|30|114.914285|45.980519|80.122515|6.218292|5.087619653208037|331.253317944831849|-48.522998|501.862400|502.4404481596846792|Aug 08 00:33:12|30|114.914285|45.980519|80.122515|6.218292|5.084577291955057|331.258283404071960|-48.528567|57.614592|58.2991361596846792|Aug 08 00:33:12|30|114.914285|45.980519|80.122515|6.218292|5.084577291955057|331.258283404071960|-48.528567|60.088320|60.9374721596846793|Aug 08 00:33:13|30|114.914285|45.980519|80.122515|6.218292|5.083056291598538|331.260766236215545|-48.531351|58.880000|59.807232********************* August 08 Observing Session - beginning 00:33:36 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596846816|Aug 08 00:33:36|30|114.914285|45.980519|80.122515|6.218292|5.048106468057341|331.317890233735909|-48.595410|506.030592|506.8651521596846817|Aug 08 00:33:37|30|114.914285|45.980519|80.122515|6.218292|5.046588353937651|331.320374705488291|-48.598196|55.603456|56.2457601596846818|Aug 08 00:33:38|30|114.914285|45.980519|80.122515|6.218292|5.045070360156615|331.322859245524853|-48.600982|56.084736|56.6223361596846819|Aug 08 00:33:39|30|114.914285|45.980519|80.122515|6.218292|5.043552486717473|331.325343853848040|-48.603768|57.745920|58.277632********************* August 08 Observing Session - beginning 00:33:56 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596846836|Aug 08 00:33:56|30|114.914285|45.980519|80.122515|6.218292|5.017767056717787|331.367592640549333|-48.651140|512.871168|513.4643201596846837|Aug 08 00:33:57|30|114.914285|45.980519|80.122515|6.218292|5.016251350507957|331.370078477583263|-48.653927|59.280128|60.1763841596846838|Aug 08 00:33:58|30|114.914285|45.980519|80.122515|6.218292|5.014735764757660|331.372564382856922|-48.656714|58.169600|59.062272********************* August 08 Observing Session - beginning 00:34:08 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596846848|Aug 08 00:34:08|30|114.914285|45.980519|80.122515|6.218292|4.999586533919796|331.397427188189965|-48.684588|502.504448|503.1306241596846849|Aug 08 00:34:09|30|114.914285|45.980519|80.122515|6.218292|4.998072273637916|331.399913843929767|-48.687376|57.747712|58.4271361596846850|Aug 08 00:34:10|30|114.914285|45.980519|80.122515|6.218292|4.996558133890062|331.402400567879283|-48.690164|59.783680|60.498432********************* August 08 Observing Session - beginning 00:34:34 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596846874|Aug 08 00:34:34|30|114.914285|45.980519|80.122515|6.218292|4.960254956154913|331.462102399265916|-48.757090|508.551168|509.1578881596846875|Aug 08 00:34:35|30|114.914285|45.980519|80.122515|6.218292|4.958743831758980|331.464590827666939|-48.759880|58.141952|58.724096********************* August 08 Observing Session - beginning 00:35:05 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596846905|Aug 08 00:35:05|30|114.914285|45.980519|80.122515|6.218292|4.913466250300601|331.539275356705957|-48.843588|503.068672|503.6436481596846906|Aug 08 00:35:06|30|114.914285|45.980519|80.122515|6.218292|4.911958870283868|331.541765896499896|-48.846379|59.042048|59.700480********************* August 08 Observing Session - beginning 00:35:20 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596846920|Aug 08 00:35:20|30|114.914285|45.980519|80.122515|6.218292|4.890868245757275|331.576640599845064|-48.885462|507.691264|508.3553281596846921|Aug 08 00:35:21|30|114.914285|45.980519|80.122515|6.218292|4.889362679659627|331.579132160428969|-48.888254|57.409792|58.143488********************* August 08 Observing Session - beginning 00:35:39 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596846939|Aug 08 00:35:39|30|114.914285|45.980519|80.122515|6.218292|4.862283182949298|331.623991882145560|-48.938521|514.155776|514.8113921596846940|Aug 08 00:35:40|30|114.914285|45.980519|80.122515|6.218292|4.860779916468985|331.626484734927203|-48.941315|55.400960|56.0796161596846941|Aug 08 00:35:41|30|114.914285|45.980519|80.122515|6.218292|4.859276771082662|331.628977655694314|-48.944108|60.067840|60.796672********************* August 08 Observing Session - beginning 00:55:29 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596848129|Aug 08 00:55:29|30|114.914280|45.980515|80.122515|6.218292|3.160775451954777|334.637816405904005|-52.304015|510.068992|510.6741761596848130|Aug 08 00:55:30|30|114.914280|45.980515|80.122515|6.218292|3.159420596366644|334.640388167408958|-52.306878|57.137664|57.7157121596848131|Aug 08 00:55:31|30|114.914280|45.980515|80.122515|6.218292|3.158065869080275|334.642959993350928|-52.309740|60.332544|61.036544********************* August 08 Observing Session - beginning 01:00:52 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596848452|Aug 08 01:00:52|30|114.914279|45.980514|80.122515|6.218292|2.729862145059755|335.471826547124465|-53.231626|503.138048|503.8095361596848454|Aug 08 01:00:54|30|114.914279|45.980514|80.122515|6.218292|2.727236062647691|335.477011388258973|-53.237388|59.242240|59.8753281596848454|Aug 08 01:00:54|30|114.914279|45.980514|80.122515|6.218292|2.727236062647691|335.477011388258973|-53.237388|58.350592|59.240448********************* August 08 Observing Session - beginning 01:01:19 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596848479|Aug 08 01:01:19|30|114.914279|45.980514|80.122515|6.218292|2.694453995307995|335.541843244502331|-53.309433|500.169728|500.6346241596848480|Aug 08 01:01:20|30|114.914279|45.980514|80.122515|6.218292|2.693144406707987|335.544437340359536|-53.312316|57.273856|57.9860481596848481|Aug 08 01:01:21|30|114.914279|45.980514|80.122515|6.218292|2.691834948476142|335.547031499382115|-53.315198|65.189632|65.978624********************* August 08 Observing Session - beginning 01:01:36 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596848496|Aug 08 01:01:36|30|114.914279|45.980514|80.122515|6.218292|2.672208723098024|335.585951462137132|-53.358444|505.136384|505.7233921596848497|Aug 08 01:01:37|30|114.914279|45.980514|80.122515|6.218292|2.670901351545297|335.588546631309384|-53.361328|57.161472|57.817088********************* August 08 Observing Session - beginning 01:02:02 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596848522|Aug 08 01:02:02|30|114.914279|45.980514|80.122515|6.218292|2.638259479786427|335.653446358925180|-53.433434|500.850432|501.4860801596848523|Aug 08 01:02:03|30|114.914279|45.980514|80.122515|6.218292|2.636955502282873|335.656043167516941|-53.436319|56.137472|56.8089601596848524|Aug 08 01:02:04|30|114.914279|45.980514|80.122515|6.218292|2.635651655399172|335.658640039110878|-53.439204|59.373056|60.025344********************* August 08 Observing Session - beginning 01:34:51 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596850491|Aug 08 01:34:51|30|114.914273|45.980507|80.122515|6.218292|0.331039713766344|340.883223287733472|-59.218524|502.700288|503.3674241596850492|Aug 08 01:34:52|30|114.914273|45.980507|80.122515|6.218292|0.330003854021271|340.885935616901634|-59.221513|54.477568|55.0184961596850493|Aug 08 01:34:53|30|114.914273|45.980507|80.122515|6.218292|0.328968135764441|340.888647999820307|-59.224502|53.042176|53.5521281596850493|Aug 08 01:34:53|30|114.914273|45.980507|80.122515|6.218292|0.328968135764441|340.888647999820307|-59.224502|53.138688|53.8275841596850494|Aug 08 01:34:54|30|114.914273|45.980507|80.122515|6.218292|0.327932559000573|340.891360436485002|-59.227491|53.432320|54.1708801596850495|Aug 08 01:34:55|30|114.914273|45.980507|80.122515|6.218292|0.326897123735606|340.894072926887873|-59.230480|53.124352|53.6583681596850495|Aug 08 01:34:55|30|114.914273|45.980507|80.122515|6.218292|0.326897123735606|340.894072926887873|-59.230480|53.591296|54.0933121596850496|Aug 08 01:34:56|30|114.914273|45.980507|80.122515|6.218292|0.325861829974301|340.896785471024430|-59.233469|53.251584|53.7730561596850497|Aug 08 01:34:57|30|114.914273|45.980507|80.122515|6.218292|0.324826677721688|340.899498068889159|-59.236458|55.896576|56.4359681596850497|Aug 08 01:34:57|30|114.914273|45.980507|80.122515|6.218292|0.324826677721688|340.899498068889159|-59.236458|53.766400|54.2970881596850498|Aug 08 01:34:58|30|114.914273|45.980507|80.122515|6.218292|0.323791666982984|340.902210720476432|-59.239447|54.823424|55.3984001596850499|Aug 08 01:34:59|30|114.914273|45.980507|80.122515|6.218292|0.322756797762850|340.904923425781703|-59.242436|57.743360|58.2801921596850499|Aug 08 01:34:59|30|114.914273|45.980507|80.122515|6.218292|0.322756797762850|340.904923425781703|-59.242436|55.201280|55.7347841596850500|Aug 08 01:35:00|30|114.914273|45.980507|80.122515|6.218292|0.321722070066826|340.907636184798321|-59.245426|53.470208|54.0567041596850501|Aug 08 01:35:01|30|114.914273|45.980507|80.122515|6.218292|0.320687483900471|340.910348997519577|-59.248415|53.200384|53.7256961596850501|Aug 08 01:35:01|30|114.914273|45.980507|80.122515|6.218292|0.320687483900471|340.910348997519577|-59.248415|52.789248|53.3081601596850502|Aug 08 01:35:02|30|114.914273|45.980507|80.122515|6.218292|0.319653039268431|340.913061863941095|-59.251404|54.120448|54.7819521596850503|Aug 08 01:35:03|30|114.914273|45.980507|80.122515|6.218292|0.318618736175466|340.915774784058158|-59.254393|55.054080|55.7460481596850503|Aug 08 01:35:03|30|114.914273|45.980507|80.122515|6.218292|0.318618736175466|340.915774784058158|-59.254393|56.864768|57.4269441596850504|Aug 08 01:35:04|30|114.914273|45.980507|80.122515|6.218292|0.317584574627546|340.918487757863204|-59.257383|53.191936|53.8119681596850505|Aug 08 01:35:05|30|114.914273|45.980507|80.122515|6.218292|0.316550554628890|340.921200785352596|-59.260372|55.748864|56.2529281596850505|Aug 08 01:35:05|30|114.914273|45.980507|80.122515|6.218292|0.316550554628890|340.921200785352596|-59.260372|57.992192|59.6856321596850506|Aug 08 01:35:06|30|114.914273|45.980507|80.122515|6.218292|0.315516676185908|340.923913866517751|-59.263362|52.954624|53.4551041596850507|Aug 08 01:35:07|30|114.914273|45.980507|80.122515|6.218292|0.314482939302465|340.926627001356053|-59.266351|54.183168|54.7264001596850507|Aug 08 01:35:07|30|114.914273|45.980507|80.122515|6.218292|0.314482939302465|340.926627001356053|-59.266351|53.865984|54.3705601596850508|Aug 08 01:35:08|30|114.914273|45.980507|80.122515|6.218292|0.313449343983706|340.929340189862046|-59.269341|53.967104|54.5070081596850509|Aug 08 01:35:09|30|114.914273|45.980507|80.122515|6.218292|0.312415890235130|340.932053432029079|-59.272331|58.972672|59.5128321596850509|Aug 08 01:35:09|30|114.914273|45.980507|80.122515|6.218292|0.312415890235130|340.932053432029079|-59.272331|56.991232|57.7006081596850510|Aug 08 01:35:10|30|114.914273|45.980507|80.122515|6.218292|0.311382578062265|340.934766727850388|-59.275320|54.481664|55.1562241596850511|Aug 08 01:35:11|30|114.914273|45.980507|80.122515|6.218292|0.310349407469801|340.937480077321425|-59.278310|54.353664|54.8968961596850511|Aug 08 01:35:11|30|114.914273|45.980507|80.122515|6.218292|0.310349407469801|340.937480077321425|-59.278310|53.869056|54.6065921596850512|Aug 08 01:35:12|30|114.914273|45.980507|80.122515|6.218292|0.309316378462526|340.940193480437756|-59.281300|53.556480|54.2359041596850513|Aug 08 01:35:13|30|114.914273|45.980507|80.122515|6.218292|0.308283491046268|340.942906937191538|-59.284290|58.555648|59.1426561596850514|Aug 08 01:35:14|30|114.914273|45.980507|80.122515|6.218292|0.307250745225403|340.945620447579472|-59.287280|53.950464|54.5784321596850514|Aug 08 01:35:14|30|114.914273|45.980507|80.122515|6.218292|0.307250745225403|340.945620447579472|-59.287280|56.180224|56.8207361596850515|Aug 08 01:35:15|30|114.914272|45.980507|80.122515|6.218292|0.306218141005814|340.948334011593602|-59.290270|55.523072|56.2383361596850516|Aug 08 01:35:16|30|114.914272|45.980507|80.122515|6.218292|0.305185678392206|340.951047629229492|-59.293260|53.532928|54.0264961596850516|Aug 08 01:35:16|30|114.914272|45.980507|80.122515|6.218292|0.305185678392206|340.951047629229492|-59.293260|58.354432|58.8922881596850517|Aug 08 01:35:17|30|114.914272|45.980507|80.122515|6.218292|0.304153357389765|340.953761300481574|-59.296250|54.118400|54.6823681596850518|Aug 08 01:35:18|30|114.914272|45.980507|80.122515|6.218292|0.303121178003110|340.956475025345242|-59.299240|53.327360|53.8278401596850518|Aug 08 01:35:18|30|114.914272|45.980507|80.122515|6.218292|0.303121178003110|340.956475025345242|-59.299240|53.617408|54.2888961596850519|Aug 08 01:35:19|30|114.914272|45.980507|80.122515|6.218292|0.302089140237811|340.959188803813788|-59.302230|55.185664|55.6846081596850520|Aug 08 01:35:20|30|114.914272|45.980507|80.122515|6.218292|0.301057244099781|340.961902635879596|-59.305220|54.969344|55.5025921596850520|Aug 08 01:35:20|30|114.914272|45.980507|80.122515|6.218292|0.301057244099781|340.961902635879596|-59.305220|53.598720|54.2231041596850521|Aug 08 01:35:21|30|114.914272|45.980507|80.122515|6.218292|0.300025489592514|340.964616521541245|-59.308210|55.101952|55.7291521596850522|Aug 08 01:35:22|30|114.914272|45.980507|80.122515|6.218292|0.298993876722321|340.967330460789924|-59.311201|56.859136|57.3706241596850522|Aug 08 01:35:22|30|114.914272|45.980507|80.122515|6.218292|0.298993876722321|340.967330460789924|-59.311201|53.590016|54.1137921596850523|Aug 08 01:35:23|30|114.914272|45.980507|80.122515|6.218292|0.297962405493507|340.970044453622108|-59.314191|53.869568|54.3472641596850524|Aug 08 01:35:24|30|114.914272|45.980507|80.122515|6.218292|0.296931075912013|340.972758500030125|-59.317181|53.532416|54.0876801596850524|Aug 08 01:35:24|30|114.914272|45.980507|80.122515|6.218292|0.296931075912013|340.972758500030125|-59.317181|53.646336|54.2023681596850525|Aug 08 01:35:25|30|114.914272|45.980507|80.122515|6.218292|0.295899887982117|340.975472600010448|-59.320172|57.556224|58.0093441596850526|Aug 08 01:35:26|30|114.914272|45.980507|80.122515|6.218292|0.294868841709729|340.978186753555406|-59.323162|54.235648|54.9253121596850526|Aug 08 01:35:26|30|114.914272|45.980507|80.122515|6.218292|0.294868841709729|340.978186753555406|-59.323162|53.181184|53.5961601596850527|Aug 08 01:35:27|30|114.914272|45.980507|80.122515|6.218292|0.293837937099610|340.980900960660279|-59.326153|63.936768|64.6615041596850528|Aug 08 01:35:28|30|114.914272|45.980507|80.122515|6.218292|0.292807174156394|340.983615221320747|-59.329143|53.486080|54.0300801596850528|Aug 08 01:35:28|30|114.914272|45.980507|80.122515|6.218292|0.292807174156394|340.983615221320747|-59.329143|53.563904|54.2021121596850529|Aug 08 01:35:29|30|114.914272|45.980507|80.122515|6.218292|0.291776552886034|340.986329535528910|-59.332134|53.609728|54.0902401596850530|Aug 08 01:35:30|30|114.914272|45.980507|80.122515|6.218292|0.290746073292851|340.989043903281242|-59.335125|54.468352|55.1682561596850530|Aug 08 01:35:30|30|114.914272|45.980507|80.122515|6.218292|0.290746073292851|340.989043903281242|-59.335125|57.454080|58.1232641596850531|Aug 08 01:35:31|30|114.914272|45.980507|80.122515|6.218292|0.289715735382700|340.991758324570071|-59.338115|57.114112|57.8219521596850532|Aug 08 01:35:32|30|114.914272|45.980507|80.122515|6.218292|0.288685539159928|340.994472799391929|-59.341106|54.622976|55.5896321596850532|Aug 08 01:35:32|30|114.914272|45.980507|80.122515|6.218292|0.288685539159928|340.994472799391929|-59.341106|54.073088|54.8014081596850533|Aug 08 01:35:33|30|114.914272|45.980507|80.122515|6.218292|0.287655484630420|340.997187327739084|-59.344097|62.690304|63.4503681596850534|Aug 08 01:35:34|30|114.914272|45.980507|80.122515|6.218292|0.286625571798922|340.999901909606876|-59.347088|60.657664|61.1865601596850534|Aug 08 01:35:34|30|114.914272|45.980507|80.122515|6.218292|0.286625571798922|340.999901909606876|-59.347088|53.429760|53.9059201596850535|Aug 08 01:35:35|30|114.914272|45.980507|80.122515|6.218292|0.285595800670492|341.002616544989678|-59.350079|59.440640|60.2196481596850536|Aug 08 01:35:36|30|114.914272|45.980507|80.122515|6.218292|0.284566171250262|341.005331233882032|-59.353070|58.639616|59.4472961596850536|Aug 08 01:35:36|30|114.914272|45.980507|80.122515|6.218292|0.284566171250262|341.005331233882032|-59.353070|53.809664|54.3201281596850537|Aug 08 01:35:37|30|114.914272|45.980507|80.122515|6.218292|0.283536683542920|341.008045976279163|-59.356061|53.553920|54.1301761596850538|Aug 08 01:35:38|30|114.914272|45.980507|80.122515|6.218292|0.282507337554378|341.010760772173455|-59.359052|54.047488|55.3871361596850538|Aug 08 01:35:38|30|114.914272|45.980507|80.122515|6.218292|0.282507337554378|341.010760772173455|-59.359052|56.284928|57.7492481596850539|Aug 08 01:35:39|30|114.914272|45.980507|80.122515|6.218292|0.281478133288942|341.013475621561327|-59.362043|54.053888|55.1902721596850540|Aug 08 01:35:40|30|114.914272|45.980507|80.122515|6.218292|0.280449070752525|341.016190524435160|-59.365034|56.248832|57.2904961596850540|Aug 08 01:35:40|30|114.914272|45.980507|80.122515|6.218292|0.280449070752525|341.016190524435160|-59.365034|53.828352|54.7904001596850541|Aug 08 01:35:41|30|114.914272|45.980507|80.122515|6.218292|0.279420149949416|341.018905480791318|-59.368025|54.423040|55.0525441596850542|Aug 08 01:35:42|30|114.914272|45.980507|80.122515|6.218292|0.278391370885501|341.021620490622013|-59.371016|57.441536|58.2556161596850542|Aug 08 01:35:42|30|114.914272|45.980507|80.122515|6.218292|0.278391370885501|341.021620490622013|-59.371016|54.538496|55.2916481596850543|Aug 08 01:35:43|30|114.914272|45.980507|80.122515|6.218292|0.277362733565511|341.024335553922811|-59.374008|53.137408|53.731584********************* August 08 Observing Session - beginning 01:57:16 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596851836|Aug 08 01:57:16||442.4796161596851837|Aug 08 01:57:17||0.2836481596851838|Aug 08 01:57:18||0.2731521596851838|Aug 08 01:57:18||0.2611201596851839|Aug 08 01:57:19||0.2636801596851840|Aug 08 01:57:20||0.3143681596851840|Aug 08 01:57:20||0.3266561596851841|Aug 08 01:57:21||0.3448321596851841|Aug 08 01:57:21||0.5291521596851842|Aug 08 01:57:22||0.3258881596851843|Aug 08 01:57:23||0.3865601596851843|Aug 08 01:57:23||0.3573761596851844|Aug 08 01:57:24||0.2739201596851844|Aug 08 01:57:24||0.2841601596851845|Aug 08 01:57:25||0.3235841596851846|Aug 08 01:57:26||0.2775041596851846|Aug 08 01:57:26||0.3432961596851847|Aug 08 01:57:27||0.2828801596851847|Aug 08 01:57:27||0.2716161596851848|Aug 08 01:57:28||0.2731521596851849|Aug 08 01:57:29||0.2846721596851849|Aug 08 01:57:29||0.2641921596851850|Aug 08 01:57:30||0.4019201596851850|Aug 08 01:57:30||0.2974721596851851|Aug 08 01:57:31||0.280064********************* August 08 Observing Session - beginning 02:01:42 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852102|Aug 08 02:01:42||451.2622081596852102|Aug 08 02:01:42||0.2721281596852103|Aug 08 02:01:43||0.2534401596852103|Aug 08 02:01:43||0.3118081596852104|Aug 08 02:01:44||0.3182081596852104|Aug 08 02:01:44||0.293888********************* August 08 Observing Session - beginning 02:02:40 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852160|Aug 08 02:02:40||444.3207681596852161|Aug 08 02:02:41||0.3000321596852161|Aug 08 02:02:41||0.2667521596852161|Aug 08 02:02:41||0.2713601596852162|Aug 08 02:02:42||0.2728961596852162|Aug 08 02:02:42||0.2654721596852162|Aug 08 02:02:42||0.3125761596852162|Aug 08 02:02:42||0.5342721596852163|Aug 08 02:02:43||0.3123201596852163|Aug 08 02:02:43||0.2964481596852163|Aug 08 02:02:43||0.2562561596852163|Aug 08 02:02:43||0.2787841596852164|Aug 08 02:02:44||0.3791361596852164|Aug 08 02:02:44||0.3002881596852164|Aug 08 02:02:44||0.2920961596852165|Aug 08 02:02:45||0.303872********************* August 08 Observing Session - beginning 02:03:02 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852182|Aug 08 02:03:02||1815.4767361596852185|Aug 08 02:03:05||1818.2277121596852187|Aug 08 02:03:07||1543.4810881596852189|Aug 08 02:03:09||1735.7701121596852191|Aug 08 02:03:11||1749.3847041596852193|Aug 08 02:03:13||1745.9927041596852195|Aug 08 02:03:15||1747.540480********************* August 08 Observing Session - beginning 02:04:22 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852262|Aug 08 02:04:22||2590.7153921596852265|Aug 08 02:04:25||1347.0307841596852267|Aug 08 02:04:27||1767.7324801596852269|Aug 08 02:04:29||1741.2753921596852271|Aug 08 02:04:31||1736.6645761596852273|Aug 08 02:04:33||1754.1603841596852275|Aug 08 02:04:35||1533.8273281596852277|Aug 08 02:04:37||1746.4238081596852279|Aug 08 02:04:39||1671.9042561596852281|Aug 08 02:04:41||1850.1399041596852283|Aug 08 02:04:43||1547.4972161596852285|Aug 08 02:04:45||1781.0552321596852287|Aug 08 02:04:47||1780.341248********************* August 08 Observing Session - beginning 02:05:10 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852310|Aug 08 02:05:10||2881.9898881596852313|Aug 08 02:05:13||2370.1360641596852316|Aug 08 02:05:16||2327.2980481596852319|Aug 08 02:05:19||2337.3122561596852321|Aug 08 02:05:21||2339.548928********************* August 08 Observing Session - beginning 02:06:00 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852360|Aug 08 02:06:00||2333.1276801596852363|Aug 08 02:06:03||1305.8598401596852365|Aug 08 02:06:05||1935.9106561596852367|Aug 08 02:06:07||1781.2134401596852369|Aug 08 02:06:09||1274.1201921596852371|Aug 08 02:06:11||1803.6403201596852373|Aug 08 02:06:13||1793.2674561596852375|Aug 08 02:06:15||1785.145344********************* August 08 Observing Session - beginning 02:06:29 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852389|Aug 08 02:06:29||2881.5521281596852392|Aug 08 02:06:32||2396.7255041596852395|Aug 08 02:06:35||2534.2433281596852398|Aug 08 02:06:38||2367.4403841596852400|Aug 08 02:06:40||2341.1522561596852403|Aug 08 02:06:43||2418.846208********************* August 08 Observing Session - beginning 02:07:28 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852448|Aug 08 02:07:28||1971.2768001596852451|Aug 08 02:07:31||1595.9234561596852453|Aug 08 02:07:33||1467.7148161596852455|Aug 08 02:07:35||1498.7691521596852457|Aug 08 02:07:37||2035.179520********************* August 08 Observing Session - beginning 02:07:52 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852472|Aug 08 02:07:52||458.6209281596852473|Aug 08 02:07:53||0.3978241596852473|Aug 08 02:07:53||0.4751361596852473|Aug 08 02:07:53||0.5081601596852473|Aug 08 02:07:53||0.3985921596852474|Aug 08 02:07:54||0.4549121596852474|Aug 08 02:07:54||0.3463681596852474|Aug 08 02:07:54||0.8504321596852474|Aug 08 02:07:54||2.6775041596852474|Aug 08 02:07:54||1.6573441596852475|Aug 08 02:07:55||0.3732481596852475|Aug 08 02:07:55||0.3909121596852475|Aug 08 02:07:55||0.3880961596852475|Aug 08 02:07:55||0.4638721596852476|Aug 08 02:07:56||0.5498881596852476|Aug 08 02:07:56||0.4331521596852476|Aug 08 02:07:56||0.4631041596852476|Aug 08 02:07:56||0.4682241596852476|Aug 08 02:07:56||0.4805121596852477|Aug 08 02:07:57||0.3673601596852477|Aug 08 02:07:57||0.4198401596852477|Aug 08 02:07:57||0.7759361596852477|Aug 08 02:07:57||0.3934721596852478|Aug 08 02:07:58||0.5155841596852478|Aug 08 02:07:58||0.3678721596852478|Aug 08 02:07:58||0.4892161596852478|Aug 08 02:07:58||0.4853761596852478|Aug 08 02:07:58||0.4369921596852479|Aug 08 02:07:59||0.3755521596852479|Aug 08 02:07:59||0.4208641596852479|Aug 08 02:07:59||0.4746241596852479|Aug 08 02:07:59||0.4840961596852479|Aug 08 02:07:59||0.5885441596852480|Aug 08 02:08:00||0.4124161596852480|Aug 08 02:08:00||0.4574721596852480|Aug 08 02:08:00||0.4400641596852480|Aug 08 02:08:00||0.5511681596852481|Aug 08 02:08:01||0.5373441596852481|Aug 08 02:08:01||0.4554241596852481|Aug 08 02:08:01||0.4551681596852481|Aug 08 02:08:01||0.3740161596852481|Aug 08 02:08:01||0.3955201596852482|Aug 08 02:08:02||0.4815361596852482|Aug 08 02:08:02||0.4175361596852482|Aug 08 02:08:02||0.339200********************* August 08 Observing Session - beginning 02:08:23 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852503|Aug 08 02:08:23||4003.6897281596852509|Aug 08 02:08:29||3419.9636481596852514|Aug 08 02:08:34||3343.6203521596852518|Aug 08 02:08:38||3404.740352********************* August 08 Observing Session - beginning 02:08:58 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852538|Aug 08 02:08:58||2456.4390401596852541|Aug 08 02:09:01||2142.3383041596852544|Aug 08 02:09:04||2053.8344961596852547|Aug 08 02:09:07||2062.9603841596852550|Aug 08 02:09:10||2051.2107521596852553|Aug 08 02:09:13||2021.145856********************* August 08 Observing Session - beginning 02:09:39 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852579|Aug 08 02:09:39||3541.3337601596852584|Aug 08 02:09:44||2972.8673281596852588|Aug 08 02:09:48||3067.7053441596852592|Aug 08 02:09:52||3035.7655041596852596|Aug 08 02:09:56||1616.381696********************* August 08 Observing Session - beginning 02:10:07 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852607|Aug 08 02:10:07||1961.8649601596852611|Aug 08 02:10:11||2436.5363201596852615|Aug 08 02:10:15||1387.4572801596852619|Aug 08 02:10:19||1416.8791041596852622|Aug 08 02:10:22||2534.600448********************* August 08 Observing Session - beginning 02:10:40 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852640|Aug 08 02:10:40||451.9326721596852641|Aug 08 02:10:41||0.6366721596852641|Aug 08 02:10:41||0.4206081596852641|Aug 08 02:10:41||0.4743681596852641|Aug 08 02:10:41||0.3453441596852641|Aug 08 02:10:41||0.4042241596852642|Aug 08 02:10:42||0.3793921596852642|Aug 08 02:10:42||0.5378561596852642|Aug 08 02:10:42||0.3486721596852642|Aug 08 02:10:42||0.3450881596852643|Aug 08 02:10:43||0.3304961596852643|Aug 08 02:10:43||0.5017601596852643|Aug 08 02:10:43||0.4170241596852643|Aug 08 02:10:43||0.7889921596852644|Aug 08 02:10:44||0.4889601596852644|Aug 08 02:10:44||0.3911681596852644|Aug 08 02:10:44||0.4618241596852644|Aug 08 02:10:44||0.6561281596852644|Aug 08 02:10:44||0.4088321596852645|Aug 08 02:10:45||0.9182721596852645|Aug 08 02:10:45||0.4213761596852645|Aug 08 02:10:45||0.6046721596852645|Aug 08 02:10:45||0.4533761596852646|Aug 08 02:10:46||0.3837441596852646|Aug 08 02:10:46||0.4884481596852646|Aug 08 02:10:46||0.3911681596852646|Aug 08 02:10:46||0.4544001596852646|Aug 08 02:10:46||0.3811841596852647|Aug 08 02:10:47||0.4733441596852647|Aug 08 02:10:47||0.4828161596852647|Aug 08 02:10:47||0.4108801596852647|Aug 08 02:10:47||0.4892161596852647|Aug 08 02:10:47||0.5061121596852648|Aug 08 02:10:48||0.3189761596852648|Aug 08 02:10:48||0.6149121596852648|Aug 08 02:10:48||0.8110081596852648|Aug 08 02:10:48||0.3660801596852649|Aug 08 02:10:49||0.4014081596852649|Aug 08 02:10:49||0.8043521596852649|Aug 08 02:10:49||0.3330561596852649|Aug 08 02:10:49||0.5980161596852649|Aug 08 02:10:49||0.4925441596852650|Aug 08 02:10:50||0.4267521596852650|Aug 08 02:10:50||0.4879361596852650|Aug 08 02:10:50||0.7096321596852650|Aug 08 02:10:50||0.4106241596852651|Aug 08 02:10:51||0.5237761596852651|Aug 08 02:10:51||0.5882881596852651|Aug 08 02:10:51||0.3187201596852651|Aug 08 02:10:51||0.3791361596852651|Aug 08 02:10:51||0.5460481596852652|Aug 08 02:10:52||0.4510721596852652|Aug 08 02:10:52||0.6056961596852652|Aug 08 02:10:52||0.430848********************* August 08 Observing Session - beginning 02:11:10 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852670|Aug 08 02:11:10||2904.3504641596852673|Aug 08 02:11:13||2413.9136001596852676|Aug 08 02:11:16||2347.4191361596852678|Aug 08 02:11:18||2468.427008********************* August 08 Observing Session - beginning 02:11:35 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852695|Aug 08 02:11:35||2522.8569601596852698|Aug 08 02:11:38||1971.3295361596852701|Aug 08 02:11:41||1957.5864321596852704|Aug 08 02:11:44||1964.8865281596852706|Aug 08 02:11:46||2008.9295361596852709|Aug 08 02:11:49||1971.1019521596852712|Aug 08 02:11:52||1951.3784321596852715|Aug 08 02:11:55||2002.5423361596852718|Aug 08 02:11:58||6010.0881921596852725|Aug 08 02:12:05||2017.182720********************* August 08 Observing Session - beginning 02:12:30 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852750|Aug 08 02:12:30||2425.3117441596852754|Aug 08 02:12:34||1890.3185921596852756|Aug 08 02:12:36||1932.419328********************* August 08 Observing Session - beginning 02:12:51 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852771|Aug 08 02:12:51||3094.7865601596852775|Aug 08 02:12:55||2495.7217281596852779|Aug 08 02:12:59||2575.921408********************* August 08 Observing Session - beginning 02:13:11 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596852791|Aug 08 02:13:11||2471.2686081596852794|Aug 08 02:13:14||1920.0965121596852797|Aug 08 02:13:17||1959.7040641596852800|Aug 08 02:13:20||1944.441600********************* August 08 Observing Session - beginning 02:27:51 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596853671|Aug 08 02:27:51|30|114.914266|45.980495|80.122515|6.218292|-2.222669391061203|349.746492745163494|-68.940067|503.686912|504.1989121596853672|Aug 08 02:27:52|30|114.914266|45.980495|80.122515|6.218292|-2.223232376774888|349.749343141360271|-68.943182|59.330560|59.8571521596853673|Aug 08 02:27:53|30|114.914266|45.980495|80.122515|6.218292|-2.223795207634495|349.752193569270105|-68.946297|53.786112|54.3395841596853674|Aug 08 02:27:54|30|114.914266|45.980495|80.122515|6.218292|-2.224357883637339|349.755044028887028|-68.949412|53.312256|53.7914881596853674|Aug 08 02:27:54|30|114.914266|45.980495|80.122515|6.218292|-2.224357883637339|349.755044028887028|-68.949412|54.217728|55.2916481596853675|Aug 08 02:27:55|30|114.914266|45.980495|80.122515|6.218292|-2.224920404779894|349.757894520200750|-68.952527|57.266432|57.8280961596853676|Aug 08 02:27:56|30|114.914266|45.980495|80.122515|6.218292|-2.225482771059262|349.760745043204224|-68.955642|54.073600|54.8646401596853676|Aug 08 02:27:56|30|114.914266|45.980495|80.122515|6.218292|-2.225482771059262|349.760745043204224|-68.955642|65.454592|66.5287681596853677|Aug 08 02:27:57|30|114.914266|45.980495|80.122515|6.218292|-2.226044982472501|349.763595597890401|-68.958757|64.783104|69.9850241596853678|Aug 08 02:27:58|30|114.914266|45.980495|80.122515|6.218292|-2.226607039015917|349.766446184247741|-68.961872|53.727232|54.3150081596853678|Aug 08 02:27:58|30|114.914266|45.980495|80.122515|6.218292|-2.226607039015917|349.766446184247741|-68.961872|54.726656|55.3185281596853679|Aug 08 02:27:59|30|114.914266|45.980495|80.122515|6.218292|-2.227168940687193|349.769296802272720|-68.964988|53.873664|54.3961601596853680|Aug 08 02:28:00|30|114.914266|45.980495|80.122515|6.218292|-2.227730687482619|349.772147451953686|-68.968103|57.952000|58.4811521596853680|Aug 08 02:28:00|30|114.914266|45.980495|80.122515|6.218292|-2.227730687482619|349.772147451953686|-68.968103|54.214400|54.7264001596853681|Aug 08 02:28:01|30|114.914266|45.980495|80.122515|6.218292|-2.228292279399511|349.774998133284839|-68.971218|56.806400|57.3839361596853682|Aug 08 02:28:02|30|114.914266|45.980495|80.122515|6.218292|-2.228853716434301|349.777848846255665|-68.974333|62.910976|67.0120961596853682|Aug 08 02:28:02|30|114.914266|45.980495|80.122515|6.218292|-2.228853716434301|349.777848846255665|-68.974333|67.100160|67.7235201596853683|Aug 08 02:28:03|30|114.914266|45.980495|80.122515|6.218292|-2.229414998584332|349.780699590860422|-68.977449|53.745664|54.3183361596853684|Aug 08 02:28:04|30|114.914266|45.980495|80.122515|6.218292|-2.229976125846079|349.783550367088651|-68.980564|53.831680|54.3767041596853684|Aug 08 02:28:04|30|114.914266|45.980495|80.122515|6.218292|-2.229976125846079|349.783550367088651|-68.980564|57.109760|57.7402881596853685|Aug 08 02:28:05|30|114.914266|45.980495|80.122515|6.218292|-2.230537098216615|349.786401174933303|-68.983680|54.702848|55.2739841596853686|Aug 08 02:28:06|30|114.914266|45.980495|80.122515|6.218292|-2.231097915693070|349.789252014387444|-68.986795|53.562880|54.1611521596853687|Aug 08 02:28:07|30|114.914266|45.980495|80.122515|6.218292|-2.231658578271919|349.792102885440556|-68.989910|53.018624|53.6079361596853687|Aug 08 02:28:07|30|114.914266|45.980495|80.122515|6.218292|-2.231658578271919|349.792102885440556|-68.989910|55.703808|56.3586561596853688|Aug 08 02:28:08|30|114.914266|45.980495|80.122515|6.218292|-2.232219085950234|349.794953788085650|-68.993026|55.541760|59.1482881596853689|Aug 08 02:28:09|30|114.914266|45.980495|80.122515|6.218292|-2.232779438724961|349.797804722314709|-68.996141|55.686400|56.1945601596853689|Aug 08 02:28:09|30|114.914266|45.980495|80.122515|6.218292|-2.232779438724961|349.797804722314709|-68.996141|54.603776|55.1229441596853690|Aug 08 02:28:10|30|114.914266|45.980495|80.122515|6.218292|-2.233339636593172|349.800655688120514|-68.999257|59.238656|59.8504961596853691|Aug 08 02:28:11|30|114.914266|45.980495|80.122515|6.218292|-2.233899679551342|349.803506685492778|-69.002373|57.062656|57.5907841596853691|Aug 08 02:28:11|30|114.914266|45.980495|80.122515|6.218292|-2.233899679551342|349.803506685492778|-69.002373|54.006272|54.5448961596853692|Aug 08 02:28:12|30|114.914266|45.980495|80.122515|6.218292|-2.234459567596829|349.806357714425587|-69.005488|59.576320|60.0657921596853693|Aug 08 02:28:13|30|114.914266|45.980495|80.122515|6.218292|-2.235019300726051|349.809208774908541|-69.008604|59.186944|59.8784001596853693|Aug 08 02:28:13|30|114.914266|45.980495|80.122515|6.218292|-2.235019300726051|349.809208774908541|-69.008604|54.812160|55.2532481596853694|Aug 08 02:28:14|30|114.914266|45.980495|80.122515|6.218292|-2.235578878936181|349.812059866934646|-69.011720|55.519232|56.0235521596853695|Aug 08 02:28:15|30|114.914266|45.980495|80.122515|6.218292|-2.236138302224305|349.814910990496742|-69.014835|53.140480|53.6724481596853695|Aug 08 02:28:15|30|114.914266|45.980495|80.122515|6.218292|-2.236138302224305|349.814910990496742|-69.014835|57.864448|58.5681921596853696|Aug 08 02:28:16|30|114.914266|45.980495|80.122515|6.218292|-2.236697570586870|349.817762145584538|-69.017951|55.923456|56.4446721596853697|Aug 08 02:28:17|30|114.914266|45.980495|80.122515|6.218292|-2.237256684021034|349.820613332191044|-69.021067|55.753472|56.2918401596853697|Aug 08 02:28:17|30|114.914266|45.980495|80.122515|6.218292|-2.237256684021034|349.820613332191044|-69.021067|56.943360|57.4274561596853698|Aug 08 02:28:18|30|114.914266|45.980495|80.122515|6.218292|-2.237815642523671|349.823464550308074|-69.024183|53.445376|54.0446721596853699|Aug 08 02:28:19|30|114.914266|45.980495|80.122515|6.218292|-2.238374446091925|349.826315799928523|-69.027298|55.284992|55.8330881596853699|Aug 08 02:28:19|30|114.914266|45.980495|80.122515|6.218292|-2.238374446091925|349.826315799928523|-69.027298|54.824704|55.3720321596853700|Aug 08 02:28:20|30|114.914266|45.980495|80.122515|6.218292|-2.238933094722242|349.829167081042044|-69.030414|53.293056|53.8503681596853701|Aug 08 02:28:21|30|114.914266|45.980495|80.122515|6.218292|-2.239491588411980|349.832018393642727|-69.033530|59.541248|63.3991681596853701|Aug 08 02:28:21|30|114.914266|45.980495|80.122515|6.218292|-2.239491588411980|349.832018393642727|-69.033530|56.150272|56.8286721596853702|Aug 08 02:28:22|30|114.914266|45.980495|80.122515|6.218292|-2.240049927157614|349.834869737720112|-69.036646|55.117056|58.6160641596853703|Aug 08 02:28:23|30|114.914266|45.980495|80.122515|6.218292|-2.240608110956273|349.837721113267321|-69.039762|54.180352|54.6803201596853703|Aug 08 02:28:23|30|114.914266|45.980495|80.122515|6.218292|-2.240608110956273|349.837721113267321|-69.039762|53.879808|54.4081921596853704|Aug 08 02:28:24|30|114.914266|45.980495|80.122515|6.218292|-2.241166139805259|349.840572520278215|-69.042878|57.496832|61.1686401596853705|Aug 08 02:28:25|30|114.914266|45.980495|80.122515|6.218292|-2.241724013700662|349.843423958740402|-69.045994|59.378176|59.8983681596853705|Aug 08 02:28:25|30|114.914266|45.980495|80.122515|6.218292|-2.241724013700662|349.843423958740402|-69.045994|58.413312|59.1065601596853706|Aug 08 02:28:26|30|114.914266|45.980495|80.122515|6.218292|-2.242281732639782|349.846275428647800|-69.049110|53.889536|54.4000001596853707|Aug 08 02:28:27|30|114.914266|45.980495|80.122515|6.218292|-2.242839296619564|349.849126929992281|-69.052226|61.611776|62.5303041596853707|Aug 08 02:28:27|30|114.914266|45.980495|80.122515|6.218292|-2.242839296619564|349.849126929992281|-69.052226|55.470080|55.9124481596853708|Aug 08 02:28:28|30|114.914266|45.980495|80.122515|6.218292|-2.243396705637124|349.851978462766795|-69.055342|55.574784|56.0821761596853709|Aug 08 02:28:29|30|114.914266|45.980495|80.122515|6.218292|-2.243953959688938|349.854830026960940|-69.058458|55.997184|59.5686401596853710|Aug 08 02:28:30|30|114.914266|45.980495|80.122515|6.218292|-2.244511058772105|349.857681622567782|-69.061574|54.167552|54.6741761596853710|Aug 08 02:28:30|30|114.914266|45.980495|80.122515|6.218292|-2.244511058772105|349.857681622567782|-69.061574|57.495808|58.0014081596853711|Aug 08 02:28:31|30|114.914266|45.980495|80.122515|6.218292|-2.245068002883613|349.860533249578964|-69.064690|55.006464|55.5865601596853712|Aug 08 02:28:32|30|114.914266|45.980495|80.122515|6.218292|-2.245624792020294|349.863384907986472|-69.067807|54.347008|54.8774401596853712|Aug 08 02:28:32|30|114.914266|45.980495|80.122515|6.218292|-2.245624792020294|349.863384907986472|-69.067807|58.035712|61.6010241596853713|Aug 08 02:28:33|30|114.914266|45.980495|80.122515|6.218292|-2.246181426179561|349.866236597784336|-69.070923|54.637824|55.2348161596853714|Aug 08 02:28:34|30|114.914266|45.980495|80.122515|6.218292|-2.246737905357406|349.869088318959939|-69.074039|60.801536|61.3324801596853714|Aug 08 02:28:34|30|114.914266|45.980495|80.122515|6.218292|-2.246737905357406|349.869088318959939|-69.074039|53.903360|54.5797121596853715|Aug 08 02:28:35|30|114.914266|45.980495|80.122515|6.218292|-2.247294229551244|349.871940071507311|-69.077155|56.109824|56.6837761596853716|Aug 08 02:28:36|30|114.914266|45.980495|80.122515|6.218292|-2.247850398757919|349.874791855418323|-69.080272|54.289408|54.8124161596853716|Aug 08 02:28:36|30|114.914266|45.980495|80.122515|6.218292|-2.247850398757919|349.874791855418323|-69.080272|53.859584|54.4547841596853717|Aug 08 02:28:37|30|114.914266|45.980495|80.122515|6.218292|-2.248406412974632|349.877643670685870|-69.083388|55.792384|56.4590081596853718|Aug 08 02:28:38|30|114.914266|45.980495|80.122515|6.218292|-2.248962272197801|349.880495517299607|-69.086504|60.970496|61.5559681596853718|Aug 08 02:28:38|30|114.914266|45.980495|80.122515|6.218292|-2.248962272197801|349.880495517299607|-69.086504|53.912064|54.4849921596853719|Aug 08 02:28:39|30|114.914266|45.980495|80.122515|6.218292|-2.249517976424855|349.883347395253622|-69.089621|57.146368|57.8480641596853720|Aug 08 02:28:40|30|114.914266|45.980495|80.122515|6.218292|-2.250073525652226|349.886199304537513|-69.092737|55.063808|55.4949121596853720|Aug 08 02:28:40|30|114.914266|45.980495|80.122515|6.218292|-2.250073525652226|349.886199304537513|-69.092737|63.029248|66.3887361596853721|Aug 08 02:28:41|30|114.914266|45.980495|80.122515|6.218292|-2.250628919876846|349.889051245143037|-69.095854|57.214976|57.6622081596853722|Aug 08 02:28:42|30|114.914266|45.980495|80.122515|6.218292|-2.251184159096525|349.891903217066556|-69.098970|54.276864|54.9058561596853722|Aug 08 02:28:42|30|114.914266|45.980495|80.122515|6.218292|-2.251184159096525|349.891903217066556|-69.098970|53.171456|53.6739841596853723|Aug 08 02:28:43|30|114.914266|45.980495|80.122515|6.218292|-2.251739243307071|349.894755220294257|-69.102087|55.477760|56.3840001596853724|Aug 08 02:28:44|30|114.914266|45.980495|80.122515|6.218292|-2.252294172506069|349.897607254821310|-69.105203|55.547136|56.0501761596853724|Aug 08 02:28:44|30|114.914266|45.980495|80.122515|6.218292|-2.252294172506069|349.897607254821310|-69.105203|53.783040|54.3326721596853725|Aug 08 02:28:45|30|114.914266|45.980495|80.122515|6.218292|-2.252848946689809|349.900459320636344|-69.108320|54.333184|55.5343361596853726|Aug 08 02:28:46|30|114.914266|45.980495|80.122515|6.218292|-2.253403565856061|349.903311417735438|-69.111436|53.415936|54.0710401596853726|Aug 08 02:28:46|30|114.914266|45.980495|80.122515|6.218292|-2.253403565856061|349.903311417735438|-69.111436|53.736704|54.3595521596853727|Aug 08 02:28:47|30|114.914266|45.980495|80.122515|6.218292|-2.253958030001101|349.906163546107223|-69.114553|57.010176|57.9860481596853728|Aug 08 02:28:48|30|114.914266|45.980495|80.122515|6.218292|-2.254512339122314|349.909015705745787|-69.117670|54.336768|54.8710401596853729|Aug 08 02:28:49|30|114.914266|45.980495|80.122515|6.218292|-2.255066493216191|349.911867896640615|-69.120786|55.754752|57.7699841596853729|Aug 08 02:28:49|30|114.914266|45.980495|80.122515|6.218292|-2.255066493216191|349.911867896640615|-69.120786|58.869760|59.4071041596853730|Aug 08 02:28:50|30|114.914266|45.980495|80.122515|6.218292|-2.255620492279817|349.914720118784658|-69.123903|53.582848|54.1954561596853731|Aug 08 02:28:51|30|114.914266|45.980495|80.122515|6.218292|-2.256174336310423|349.917572372170923|-69.127020|62.269696|62.8234241596853731|Aug 08 02:28:51|30|114.914266|45.980495|80.122515|6.218292|-2.256174336310423|349.917572372170923|-69.127020|54.612480|55.1872001596853732|Aug 08 02:28:52|30|114.914266|45.980495|80.122515|6.218292|-2.256728025304440|349.920424656788953|-69.130136|53.649664|54.1972481596853733|Aug 08 02:28:53|30|114.914266|45.980495|80.122515|6.218292|-2.257281559259297|349.923276972632777|-69.133253|59.360000|63.0515201596853733|Aug 08 02:28:53|30|114.914266|45.980495|80.122515|6.218292|-2.257281559259297|349.923276972632777|-69.133253|58.206976|58.8602881596853734|Aug 08 02:28:54|30|114.914266|45.980495|80.122515|6.218292|-2.257834938171413|349.926129319692109|-69.136370|58.221312|59.7903361596853735|Aug 08 02:28:55|30|114.914266|45.980495|80.122515|6.218292|-2.258388162037988|349.928981697959784|-69.139487|55.729408|59.7539841596853735|Aug 08 02:28:55|30|114.914266|45.980495|80.122515|6.218292|-2.258388162037988|349.928981697959784|-69.139487|57.337856|57.8560001596853736|Aug 08 02:28:56|30|114.914266|45.980495|80.122515|6.218292|-2.258941230855925|349.931834107427676|-69.142604|52.772096|53.2838401596853737|Aug 08 02:28:57|30|114.914266|45.980495|80.122515|6.218292|-2.259494144622408|349.934686548088621|-69.145721|54.162176|54.6314241596853737|Aug 08 02:28:57|30|114.914266|45.980495|80.122515|6.218292|-2.259494144622408|349.934686548088621|-69.145721|59.883008|60.9500161596853738|Aug 08 02:28:58|30|114.914266|45.980495|80.122515|6.218292|-2.260046903333944|349.937539019932331|-69.148838|56.114688|59.7934081596853739|Aug 08 02:28:59|30|114.914266|45.980495|80.122515|6.218292|-2.260599506987631|349.940391522951700|-69.151955|58.853632|59.4549761596853739|Aug 08 02:28:59|30|114.914266|45.980495|80.122515|6.218292|-2.260599506987631|349.940391522951700|-69.151955|55.166208|55.7926401596853740|Aug 08 02:29:00|30|114.914266|45.980495|80.122515|6.218292|-2.261151955580658|349.943244057139623|-69.155072|53.537536|54.1900801596853741|Aug 08 02:29:01|30|114.914266|45.980495|80.122515|6.218292|-2.261704249109542|349.946096622485697|-69.158189|56.039936|56.9236481596853741|Aug 08 02:29:01|30|114.914266|45.980495|80.122515|6.218292|-2.261704249109542|349.946096622485697|-69.158189|54.315520|55.0259201596853742|Aug 08 02:29:02|30|114.914266|45.980495|80.122515|6.218292|-2.262256387571824|349.948949218985149|-69.161306|53.689600|54.4069121596853743|Aug 08 02:29:03|30|114.914266|45.980495|80.122515|6.218292|-2.262808370963398|349.951801846624221|-69.164423|57.954560|61.5708161596853743|Aug 08 02:29:03|30|114.914266|45.980495|80.122515|6.218292|-2.262808370963398|349.951801846624221|-69.164423|54.041856|54.5797121596853744|Aug 08 02:29:04|30|114.914266|45.980495|80.122515|6.218292|-2.263360199282289|349.954654505400185|-69.167540|55.986176|56.5667841596853745|Aug 08 02:29:05|30|114.914266|45.980495|80.122515|6.218292|-2.263911872524758|349.957507195301616|-69.170657|55.082240|59.0512641596853746|Aug 08 02:29:06|30|114.914266|45.980495|80.122515|6.218292|-2.264463390688192|349.960359916322545|-69.173774|53.595904|54.1693441596853746|Aug 08 02:29:06|30|114.914266|45.980495|80.122515|6.218292|-2.264463390688192|349.960359916322545|-69.173774|54.024448|54.5902081596853747|Aug 08 02:29:07|30|114.914266|45.980495|80.122515|6.218292|-2.265014753769108|349.963212668452570|-69.176891|59.313920|60.0634881596853748|Aug 08 02:29:08|30|114.914266|45.980495|80.122515|6.218292|-2.265565961764636|349.966065451684642|-69.180009|55.050240|55.5750401596853748|Aug 08 02:29:08|30|114.914266|45.980495|80.122515|6.218292|-2.265565961764636|349.966065451684642|-69.180009|57.889792|58.3856641596853749|Aug 08 02:29:09|30|114.914266|45.980495|80.122515|6.218292|-2.266117014671750|349.968918266010462|-69.183126|55.264512|55.7434881596853750|Aug 08 02:29:10|30|114.914266|45.980495|80.122515|6.218292|-2.266667912487407|349.971771111421901|-69.186243|57.624832|58.0759041596853750|Aug 08 02:29:10|30|114.914266|45.980495|80.122515|6.218292|-2.266667912487407|349.971771111421901|-69.186243|59.017472|59.6743681596853751|Aug 08 02:29:11|30|114.914266|45.980495|80.122515|6.218292|-2.267218655208950|349.974623987913048|-69.189361|61.459712|65.4824961596853752|Aug 08 02:29:12|30|114.914266|45.980495|80.122515|6.218292|-2.267769242832458|349.977476895471227|-69.192478|53.839872|54.3813121596853752|Aug 08 02:29:12|30|114.914266|45.980495|80.122515|6.218292|-2.267769242832458|349.977476895471227|-69.192478|56.828672|57.2766721596853753|Aug 08 02:29:13|30|114.914266|45.980495|80.122515|6.218292|-2.268319675355343|349.980329834090469|-69.195595|54.146048|54.7112961596853754|Aug 08 02:29:14|30|114.914266|45.980495|80.122515|6.218292|-2.268869952774537|349.983182803762588|-69.198713|53.931776|54.4005121596853754|Aug 08 02:29:14|30|114.914266|45.980495|80.122515|6.218292|-2.268869952774537|349.983182803762588|-69.198713|53.756672|54.5208321596853755|Aug 08 02:29:15|30|114.914266|45.980495|80.122515|6.218292|-2.269420075087183|349.986035804480480|-69.201830|53.085952|53.5810561596853756|Aug 08 02:29:16|30|114.914266|45.980495|80.122515|6.218292|-2.269970042289799|349.988888836233741|-69.204948|56.798208|57.2887041596853756|Aug 08 02:29:16|30|114.914266|45.980495|80.122515|6.218292|-2.269970042289799|349.988888836233741|-69.204948|54.420480|54.9096961596853757|Aug 08 02:29:17|30|114.914266|45.980495|80.122515|6.218292|-2.270519854379572|349.991741899015437|-69.208065|54.868992|55.4140161596853758|Aug 08 02:29:18|30|114.914266|45.980495|80.122515|6.218292|-2.271069511353446|349.994594992817099|-69.211183|54.160640|54.7182081596853758|Aug 08 02:29:18|30|114.914266|45.980495|80.122515|6.218292|-2.271069511353446|349.994594992817099|-69.211183|54.637312|55.7754881596853759|Aug 08 02:29:19|30|114.914266|45.980495|80.122515|6.218292|-2.271619013208365|349.997448117630768|-69.214300|54.226432|54.7750401596853760|Aug 08 02:29:20|30|114.914266|45.980495|80.122515|6.218292|-2.272168359941716|350.000301273450361|-69.217418|55.168000|55.7839361596853760|Aug 08 02:29:20|30|114.914266|45.980495|80.122515|6.218292|-2.272168359941716|350.000301273450361|-69.217418|54.211072|54.7809281596853761|Aug 08 02:29:21|30|114.914266|45.980495|80.122515|6.218292|-2.272717551549590|350.003154460263261|-69.220535|54.563584|55.0538241596853762|Aug 08 02:29:22|30|114.914266|45.980495|80.122515|6.218292|-2.273266588029387|350.006007678063554|-69.223653|56.251904|56.6858241596853762|Aug 08 02:29:22|30|114.914266|45.980495|80.122515|6.218292|-2.273266588029387|350.006007678063554|-69.223653|54.038272|54.6096641596853763|Aug 08 02:29:23|30|114.914266|45.980495|80.122515|6.218292|-2.273815469378022|350.008860926842942|-69.226771|62.260992|63.9503361596853764|Aug 08 02:29:24|30|114.914266|45.980495|80.122515|6.218292|-2.274364195592696|350.011714206594377|-69.229888|53.115904|53.6675841596853764|Aug 08 02:29:24|30|114.914266|45.980495|80.122515|6.218292|-2.274364195592696|350.011714206594377|-69.229888|56.796160|57.3283841596853765|Aug 08 02:29:25|30|114.914266|45.980495|80.122515|6.218292|-2.274912766669914|350.014567517307455|-69.233006|58.086912|58.6040321596853766|Aug 08 02:29:26|30|114.914266|45.980495|80.122515|6.218292|-2.275461182607103|350.017420858976266|-69.236124|54.801152|58.6426881596853766|Aug 08 02:29:26|30|114.914266|45.980495|80.122515|6.218292|-2.275461182607103|350.017420858976266|-69.236124|60.674304|64.7408641596853767|Aug 08 02:29:27|30|114.914266|45.980495|80.122515|6.218292|-2.276009443400724|350.020274231590236|-69.239241|59.037184|59.5217921596853768|Aug 08 02:29:28|30|114.914266|45.980495|80.122515|6.218292|-2.276557549047794|350.023127635141407|-69.242359|56.057088|56.6284801596853769|Aug 08 02:29:29|30|114.914266|45.980495|80.122515|6.218292|-2.277105499546096|350.025981069625743|-69.245477|59.270656|62.8974081596853769|Aug 08 02:29:29|30|114.914266|45.980495|80.122515|6.218292|-2.277105499546096|350.025981069625743|-69.245477|58.238720|58.9729281596853770|Aug 08 02:29:30|30|114.914266|45.980495|80.122515|6.218292|-2.277653294891536|350.028834535029603|-69.248595|60.023040|64.1720321596853771|Aug 08 02:29:31|30|114.914266|45.980495|80.122515|6.218292|-2.278200935081713|350.031688031348210|-69.251713|55.753472|56.3281921596853771|Aug 08 02:29:31|30|114.914266|45.980495|80.122515|6.218292|-2.278200935081713|350.031688031348210|-69.251713|56.872192|57.3936641596853772|Aug 08 02:29:32|30|114.914266|45.980495|80.122515|6.218292|-2.278748420112919|350.034541558569970|-69.254831|53.707520|54.2681601596853773|Aug 08 02:29:33|30|114.914266|45.980495|80.122515|6.218292|-2.279295749983035|350.037395116691073|-69.257949|54.379264|54.8889601596853773|Aug 08 02:29:33|30|114.914266|45.980495|80.122515|6.218292|-2.279295749983035|350.037395116691073|-69.257949|54.262272|54.8817921596853774|Aug 08 02:29:34|30|114.914266|45.980495|80.122515|6.218292|-2.279842924688325|350.040248705700037|-69.261067|57.582592|58.1611521596853775|Aug 08 02:29:35|30|114.914266|45.980495|80.122515|6.218292|-2.280389944226187|350.043102325590837|-69.264185|58.358528|59.0200321596853775|Aug 08 02:29:35|30|114.914266|45.980495|80.122515|6.218292|-2.280389944226187|350.043102325590837|-69.264185|57.504000|58.092800********************* August 08 Observing Session - beginning 02:30:35 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596853835|Aug 08 02:30:35||18331.4931201596853868|Aug 08 02:31:08||1836.9180161596853884|Aug 08 02:31:24||1963.1966721596853900|Aug 08 02:31:40||1087.021056********************* August 08 Observing Session - beginning 02:33:24 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596854004|Aug 08 02:33:24|30|114.914266|45.980494|80.122515|6.218292|-2.401565014083715|350.697377818830432|-69.978941|504.478208|504.9602561596854005|Aug 08 02:33:25|30|114.914266|45.980494|80.122515|6.218292|-2.402076266023769|350.700238322118651|-69.982065|58.997760|59.4618881596854006|Aug 08 02:33:26|30|114.914266|45.980494|80.122515|6.218292|-2.402587362115597|350.703098854374048|-69.985189|54.680064|58.2937601596854007|Aug 08 02:33:27|30|114.914266|45.980494|80.122515|6.218292|-2.403098302357080|350.705959415592645|-69.988314|58.752256|59.2760321596854007|Aug 08 02:33:27|30|114.914266|45.980494|80.122515|6.218292|-2.403098302357080|350.705959415592645|-69.988314|54.023168|54.4558081596854008|Aug 08 02:33:28|30|114.914266|45.980494|80.122515|6.218292|-2.403609086744851|350.708820005762902|-69.991438|53.224704|53.6913921596854009|Aug 08 02:33:29|30|114.914266|45.980494|80.122515|6.218292|-2.404119715276394|350.711680624878625|-69.994563|54.775808|55.3551361596854009|Aug 08 02:33:29|30|114.914266|45.980494|80.122515|6.218292|-2.404119715276394|350.711680624878625|-69.994563|53.183232|53.7479681596854010|Aug 08 02:33:30|30|114.914266|45.980494|80.122515|6.218292|-2.404630187948484|350.714541272929239|-69.997687|55.820032|56.4336641596854011|Aug 08 02:33:31|30|114.914266|45.980494|80.122515|6.218292|-2.405140504758478|350.717401949907583|-70.000812|58.365184|58.9227521596854011|Aug 08 02:33:31|30|114.914266|45.980494|80.122515|6.218292|-2.405140504758478|350.717401949907583|-70.000812|53.220096|53.7487361596854012|Aug 08 02:33:32|30|114.914266|45.980494|80.122515|6.218292|-2.405650665703718|350.720262655806209|-70.003936|54.128384|54.5607681596854013|Aug 08 02:33:33|30|114.914266|45.980494|80.122515|6.218292|-2.406160670780949|350.723123390614830|-70.007061|54.817024|55.5025921596854013|Aug 08 02:33:33|30|114.914266|45.980494|80.122515|6.218292|-2.406160670780949|350.723123390614830|-70.007061|53.679360|54.2051841596854014|Aug 08 02:33:34|30|114.914266|45.980494|80.122515|6.218292|-2.406670519987756|350.725984154327136|-70.010185|53.382144|53.8403841596854015|Aug 08 02:33:35|30|114.914266|45.980494|80.122515|6.218292|-2.407180213320856|350.728844946932668|-70.013310|52.922112|53.5362561596854015|Aug 08 02:33:35|30|114.914266|45.980494|80.122515|6.218292|-2.407180213320856|350.728844946932668|-70.013310|55.161088|58.8833281596854016|Aug 08 02:33:36|30|114.914266|45.980494|80.122515|6.218292|-2.407689750777635|350.731705768424035|-70.016434|55.013120|55.4798081596854017|Aug 08 02:33:37|30|114.914266|45.980494|80.122515|6.218292|-2.408199132355236|350.734566618793053|-70.019559|58.155008|62.2720001596854017|Aug 08 02:33:37|30|114.914266|45.980494|80.122515|6.218292|-2.408199132355236|350.734566618793053|-70.019559|57.428736|57.9243521596854018|Aug 08 02:33:38|30|114.914266|45.980494|80.122515|6.218292|-2.408708358051001|350.737427498032389|-70.022684|59.036416|59.6016641596854019|Aug 08 02:33:39|30|114.914266|45.980494|80.122515|6.218292|-2.409217427861918|350.740288406132549|-70.025808|53.006592|53.5280641596854019|Aug 08 02:33:39|30|114.914266|45.980494|80.122515|6.218292|-2.409217427861918|350.740288406132549|-70.025808|54.425088|55.1303681596854020|Aug 08 02:33:40|30|114.914266|45.980494|80.122515|6.218292|-2.409726341784904|350.743149343084156|-70.028933|56.479488|57.1133441596854021|Aug 08 02:33:41|30|114.914266|45.980494|80.122515|6.218292|-2.410235099817555|350.746010308881011|-70.032058|55.435776|56.0153601596854021|Aug 08 02:33:41|30|114.914266|45.980494|80.122515|6.218292|-2.410235099817555|350.746010308881011|-70.032058|54.306048|58.0462081596854022|Aug 08 02:33:42|30|114.914266|45.980494|80.122515|6.218292|-2.410743701956633|350.748871303512601|-70.035183|52.839168|53.3683201596854023|Aug 08 02:33:43|30|114.914266|45.980494|80.122515|6.218292|-2.411252148199665|350.751732326972729|-70.038308|59.288320|59.8021121596854023|Aug 08 02:33:43|30|114.914266|45.980494|80.122515|6.218292|-2.411252148199665|350.751732326972729|-70.038308|53.880320|54.3531521596854024|Aug 08 02:33:44|30|114.914266|45.980494|80.122515|6.218292|-2.411760438543439|350.754593379250821|-70.041432|57.603072|58.2602241596854025|Aug 08 02:33:45|30|114.914266|45.980494|80.122515|6.218292|-2.412268572985113|350.757454460338636|-70.044557|54.457088|55.1139841596854025|Aug 08 02:33:45|30|114.914266|45.980494|80.122515|6.218292|-2.412268572985113|350.757454460338636|-70.044557|57.201920|57.6253441596854026|Aug 08 02:33:46|30|114.914266|45.980494|80.122515|6.218292|-2.412776551522470|350.760315570231000|-70.047682|53.849344|54.4317441596854027|Aug 08 02:33:47|30|114.914266|45.980494|80.122515|6.218292|-2.413284374152028|350.763176708916319|-70.050807|53.555200|54.0613121596854028|Aug 08 02:33:48|30|114.914266|45.980494|80.122515|6.218292|-2.413792040871400|350.766037876388452|-70.053932|53.490944|54.0367361596854028|Aug 08 02:33:48|30|114.914266|45.980494|80.122515|6.218292|-2.413792040871400|350.766037876388452|-70.053932|52.851456|53.3829121596854029|Aug 08 02:33:49|30|114.914266|45.980494|80.122515|6.218292|-2.414299551677303|350.768899072636771|-70.057057|54.137856|54.6534401596854030|Aug 08 02:33:50|30|114.914266|45.980494|80.122515|6.218292|-2.414806906567335|350.771760297655135|-70.060182|53.360896|53.8844161596854030|Aug 08 02:33:50|30|114.914266|45.980494|80.122515|6.218292|-2.414806906567335|350.771760297655135|-70.060182|53.786624|54.5297921596854031|Aug 08 02:33:51|30|114.914266|45.980494|80.122515|6.218292|-2.415314105538272|350.774621551433029|-70.063307|53.742848|54.3011841596854032|Aug 08 02:33:52|30|114.914266|45.980494|80.122515|6.218292|-2.415821148587625|350.777482833964200|-70.066432|55.825920|59.4298881596854032|Aug 08 02:33:52|30|114.914266|45.980494|80.122515|6.218292|-2.415821148587625|350.777482833964200|-70.066432|58.087680|58.7041281596854033|Aug 08 02:33:53|30|114.914266|45.980494|80.122515|6.218292|-2.416328035712240|350.780344145238246|-70.069557|53.828096|54.3744001596854034|Aug 08 02:33:54|30|114.914266|45.980494|80.122515|6.218292|-2.416834766909460|350.783205485247777|-70.072682|53.281280|53.7134081596854034|Aug 08 02:33:54|30|114.914266|45.980494|80.122515|6.218292|-2.416834766909460|350.783205485247777|-70.072682|54.529792|55.1365121596854035|Aug 08 02:33:55|30|114.914266|45.980494|80.122515|6.218292|-2.417341342176414|350.786066853984380|-70.075808|57.488128|58.0807681596854036|Aug 08 02:33:56|30|114.914266|45.980494|80.122515|6.218292|-2.417847761510345|350.788928251439870|-70.078933|53.968640|54.9665281596854036|Aug 08 02:33:56|30|114.914266|45.980494|80.122515|6.218292|-2.417847761510345|350.788928251439870|-70.078933|53.565184|54.1035521596854037|Aug 08 02:33:57|30|114.914266|45.980494|80.122515|6.218292|-2.418354024908552|350.791789677606914|-70.082058|54.980608|55.5156481596854038|Aug 08 02:33:58|30|114.914266|45.980494|80.122515|6.218292|-2.418860132368039|350.794651132476076|-70.085183|53.777664|54.3774721596854038|Aug 08 02:33:58|30|114.914266|45.980494|80.122515|6.218292|-2.418860132368039|350.794651132476076|-70.085183|54.262272|54.7468801596854039|Aug 08 02:33:59|30|114.914266|45.980494|80.122515|6.218292|-2.419366083885819|350.797512616037693|-70.088308|55.953152|56.5340161596854040|Aug 08 02:34:00|30|114.914266|45.980494|80.122515|6.218292|-2.419871879459208|350.800374128284773|-70.091434|56.163840|56.6515201596854040|Aug 08 02:34:00|30|114.914266|45.980494|80.122515|6.218292|-2.419871879459208|350.800374128284773|-70.091434|58.703872|59.2360961596854041|Aug 08 02:34:01|30|114.914266|45.980494|80.122515|6.218292|-2.420377519085605|350.803235669209926|-70.094559|54.150656|54.6534401596854042|Aug 08 02:34:02|30|114.914266|45.980494|80.122515|6.218292|-2.420883002761798|350.806097238802579|-70.097684|53.868032|54.5953281596854042|Aug 08 02:34:02|30|114.914266|45.980494|80.122515|6.218292|-2.420883002761798|350.806097238802579|-70.097684|54.021888|54.6252801596854043|Aug 08 02:34:03|30|114.914266|45.980494|80.122515|6.218292|-2.421388330485144|350.808958837055457|-70.100810|59.538432|60.2460161596854044|Aug 08 02:34:04|30|114.914266|45.980494|80.122515|6.218292|-2.421893502252829|350.811820463960203|-70.103935|56.436224|57.0493441596854044|Aug 08 02:34:04|30|114.914266|45.980494|80.122515|6.218292|-2.421893502252829|350.811820463960203|-70.103935|53.692672|54.2095361596854045|Aug 08 02:34:05|30|114.914266|45.980494|80.122515|6.218292|-2.422398518062252|350.814682119509598|-70.107060|53.171456|53.7436161596854046|Aug 08 02:34:06|30|114.914266|45.980494|80.122515|6.218292|-2.422903377910146|350.817543803693070|-70.110186|60.550656|62.1427201596854047|Aug 08 02:34:07|30|114.914266|45.980494|80.122515|6.218292|-2.423408081794108|350.820405516504366|-70.113311|55.401984|59.3963521596854047|Aug 08 02:34:07|30|114.914266|45.980494|80.122515|6.218292|-2.423408081794108|350.820405516504366|-70.113311|55.067648|58.9043201596854048|Aug 08 02:34:08|30|114.914266|45.980494|80.122515|6.218292|-2.423912629710941|350.823267257933026|-70.116437|53.444352|54.0152321596854049|Aug 08 02:34:09|30|114.914266|45.980494|80.122515|6.218292|-2.424417021658016|350.826129027971660|-70.119562|55.421440|56.0655361596854049|Aug 08 02:34:09|30|114.914266|45.980494|80.122515|6.218292|-2.424417021658016|350.826129027971660|-70.119562|54.095104|54.6839041596854050|Aug 08 02:34:10|30|114.914266|45.980494|80.122515|6.218292|-2.424921257632704|350.828990826613108|-70.122688|57.656832|58.5223681596854051|Aug 08 02:34:11|30|114.914266|45.980494|80.122515|6.218292|-2.425425337631808|350.831852653846795|-70.125813|54.255360|54.8111361596854051|Aug 08 02:34:11|30|114.914266|45.980494|80.122515|6.218292|-2.425425337631808|350.831852653846795|-70.125813|53.954304|54.6636801596854052|Aug 08 02:34:12|30|114.914266|45.980494|80.122515|6.218292|-2.425929261652882|350.834714509666469|-70.128939|56.164352|56.8135681596854053|Aug 08 02:34:13|30|114.914266|45.980494|80.122515|6.218292|-2.426433029692546|350.837576394060420|-70.132065|60.902656|61.5326721596854053|Aug 08 02:34:13|30|114.914266|45.980494|80.122515|6.218292|-2.426433029692546|350.837576394060420|-70.132065|57.155072|60.6087681596854054|Aug 08 02:34:14|30|114.914266|45.980494|80.122515|6.218292|-2.426936641748767|350.840438307024840|-70.135190|53.155840|53.7448961596854055|Aug 08 02:34:15|30|114.914266|45.980494|80.122515|6.218292|-2.427440097818149|350.843300248547962|-70.138316|53.909504|54.4514561596854055|Aug 08 02:34:15|30|114.914266|45.980494|80.122515|6.218292|-2.427440097818149|350.843300248547962|-70.138316|56.462080|57.0913281596854056|Aug 08 02:34:16|30|114.914266|45.980494|80.122515|6.218292|-2.427943397898247|350.846162218623647|-70.141442|65.086976|65.7443841596854057|Aug 08 02:34:17|30|114.914266|45.980494|80.122515|6.218292|-2.428446541985878|350.849024217241265|-70.144567|53.872640|54.4163841596854057|Aug 08 02:34:17|30|114.914266|45.980494|80.122515|6.218292|-2.428446541985878|350.849024217241265|-70.144567|53.509376|54.1273601596854058|Aug 08 02:34:18|30|114.914266|45.980494|80.122515|6.218292|-2.428949530078427|350.851886244393540|-70.147693|57.349632|57.9205121596854059|Aug 08 02:34:19|30|114.914266|45.980494|80.122515|6.218292|-2.429452362173464|350.854748300074391|-70.150819|53.370624|53.9811841596854059|Aug 08 02:34:19|30|114.914266|45.980494|80.122515|6.218292|-2.429452362173464|350.854748300074391|-70.150819|54.300928|54.8318721596854060|Aug 08 02:34:20|30|114.914266|45.980494|80.122515|6.218292|-2.429955038267394|350.857610384270970|-70.153945|58.765312|59.2647681596854061|Aug 08 02:34:21|30|114.914266|45.980494|80.122515|6.218292|-2.430457558357844|350.860472496977025|-70.157071|59.946752|60.9720321596854061|Aug 08 02:34:21|30|114.914266|45.980494|80.122515|6.218292|-2.430457558357844|350.860472496977025|-70.157071|53.755904|54.8326401596854062|Aug 08 02:34:22|30|114.914266|45.980494|80.122515|6.218292|-2.430959922441915|350.863334638184369|-70.160196|55.801600|56.2821121596854063|Aug 08 02:34:23|30|114.914266|45.980494|80.122515|6.218292|-2.431462130516877|350.866196807884421|-70.163322|54.722816|58.4499201596854063|Aug 08 02:34:23|30|114.914266|45.980494|80.122515|6.218292|-2.431462130516877|350.866196807884421|-70.163322|58.560256|59.0696961596854064|Aug 08 02:34:24|30|114.914266|45.980494|80.122515|6.218292|-2.431964182580103|350.869059006070074|-70.166448|53.548544|54.0669441596854065|Aug 08 02:34:25|30|114.914266|45.980494|80.122515|6.218292|-2.432466078628394|350.871921232730642|-70.169574|54.098432|54.7412481596854066|Aug 08 02:34:26|30|114.914266|45.980494|80.122515|6.218292|-2.432967818659336|350.874783487859986|-70.172700|53.890560|54.3198721596854066|Aug 08 02:34:26|30|114.914266|45.980494|80.122515|6.218292|-2.432967818659336|350.874783487859986|-70.172700|59.683072|60.3453441596854067|Aug 08 02:34:27|30|114.914266|45.980494|80.122515|6.218292|-2.433469402669743|350.877645771447533|-70.175826|54.577408|55.1590401596854068|Aug 08 02:34:28|30|114.914266|45.980494|80.122515|6.218292|-2.433970830657174|350.880508083487030|-70.178952|53.142272|53.6401921596854068|Aug 08 02:34:28|30|114.914266|45.980494|80.122515|6.218292|-2.433970830657174|350.880508083487030|-70.178952|53.708544|54.2200321596854069|Aug 08 02:34:29|30|114.914266|45.980494|80.122515|6.218292|-2.434472102618429|350.883370423967961|-70.182078|55.328256|55.9352321596854070|Aug 08 02:34:30|30|114.914266|45.980494|80.122515|6.218292|-2.434973218551193|350.886232792884186|-70.185204|53.994752|54.5640961596854070|Aug 08 02:34:30|30|114.914266|45.980494|80.122515|6.218292|-2.434973218551193|350.886232792884186|-70.185204|53.587200|54.1114881596854071|Aug 08 02:34:31|30|114.914266|45.980494|80.122515|6.218292|-2.435474178452154|350.889095190225078|-70.188330|53.269504|53.7958401596854072|Aug 08 02:34:32|30|114.914266|45.980494|80.122515|6.218292|-2.435974982318569|350.891957615982164|-70.191456|54.819328|55.3774081596854072|Aug 08 02:34:32|30|114.914266|45.980494|80.122515|6.218292|-2.435974982318569|350.891957615982164|-70.191456|58.317056|58.8449281596854073|Aug 08 02:34:33|30|114.914266|45.980494|80.122515|6.218292|-2.436475630148237|350.894820070150558|-70.194583|55.967232|56.5056001596854074|Aug 08 02:34:34|30|114.914266|45.980494|80.122515|6.218292|-2.436976121937747|350.897682552718379|-70.197709|53.621248|54.1521921596854074|Aug 08 02:34:34|30|114.914266|45.980494|80.122515|6.218292|-2.436976121937747|350.897682552718379|-70.197709|55.774976|56.4792321596854075|Aug 08 02:34:35|30|114.914266|45.980494|80.122515|6.218292|-2.437476457684696|350.900545063679544|-70.200835|56.294400|57.0652161596854076|Aug 08 02:34:36|30|114.914266|45.980494|80.122515|6.218292|-2.437976637385916|350.903407603023481|-70.203961|57.110272|59.6344321596854076|Aug 08 02:34:36|30|114.914266|45.980494|80.122515|6.218292|-2.437976637385916|350.903407603023481|-70.203961|54.431232|54.9742081596854077|Aug 08 02:34:37|30|114.914266|45.980494|80.122515|6.218292|-2.438476661038976|350.906270170743880|-70.207087|55.012352|58.7653121596854078|Aug 08 02:34:38|30|114.914266|45.980494|80.122515|6.218292|-2.438976528640723|350.909132766830339|-70.210214|54.806272|57.1665921596854078|Aug 08 02:34:38|30|114.914266|45.980494|80.122515|6.218292|-2.438976528640723|350.909132766830339|-70.210214|56.965632|57.7267201596854079|Aug 08 02:34:39|30|114.914266|45.980494|80.122515|6.218292|-2.439476240188711|350.911995391276548|-70.213340|53.079040|53.6517121596854080|Aug 08 02:34:40|30|114.914266|45.980494|80.122515|6.218292|-2.439975795679800|350.914858044071934|-70.216466|53.938176|54.8216321596854080|Aug 08 02:34:40|30|114.914266|45.980494|80.122515|6.218292|-2.439975795679800|350.914858044071934|-70.216466|53.997056|54.6721281596854081|Aug 08 02:34:41|30|114.914266|45.980494|80.122515|6.218292|-2.440475195111361|350.917720725209222|-70.219593|53.705728|54.1580801596854082|Aug 08 02:34:42|30|114.914266|45.980494|80.122515|6.218292|-2.440974438480637|350.920583434680054|-70.222719|55.151616|55.6472321596854082|Aug 08 02:34:42|30|114.914266|45.980494|80.122515|6.218292|-2.440974438480637|350.920583434680054|-70.222719|53.725440|54.1391361596854083|Aug 08 02:34:43|30|114.914266|45.980494|80.122515|6.218292|-2.441473525785000|350.923446172477099|-70.225845|54.277120|54.8582401596854084|Aug 08 02:34:44|30|114.914266|45.980494|80.122515|6.218292|-2.441972457021251|350.926308938589784|-70.228972|57.476864|57.9619841596854084|Aug 08 02:34:44|30|114.914266|45.980494|80.122515|6.218292|-2.441972457021251|350.926308938589784|-70.228972|54.373120|54.9163521596854085|Aug 08 02:34:45|30|114.914266|45.980494|80.122515|6.218292|-2.442471232186847|350.929171733010776|-70.232098|53.996544|54.5707521596854086|Aug 08 02:34:46|30|114.914266|45.980494|80.122515|6.218292|-2.442969851279187|350.932034555732855|-70.235225|56.050688|56.7093761596854087|Aug 08 02:34:47|30|114.914266|45.980494|80.122515|6.218292|-2.443468314295089|350.934897406745392|-70.238351|53.340672|53.8490881596854087|Aug 08 02:34:47|30|114.914266|45.980494|80.122515|6.218292|-2.443468314295089|350.934897406745392|-70.238351|57.488896|61.0378241596854088|Aug 08 02:34:48|30|114.914266|45.980494|80.122515|6.218292|-2.443966621232107|350.937760286042192|-70.241478|52.957440|53.3667841596854089|Aug 08 02:34:49|30|114.914266|45.980494|80.122515|6.218292|-2.444464772087116|350.940623193612680|-70.244604|53.652480|54.2737921596854089|Aug 08 02:34:49|30|114.914266|45.980494|80.122515|6.218292|-2.444464772087116|350.940623193612680|-70.244604|54.941440|58.7112961596854090|Aug 08 02:34:50|30|114.914266|45.980494|80.122515|6.218292|-2.444962766857515|350.943486129449468|-70.247731|55.458816|55.9326721596854091|Aug 08 02:34:51|30|114.914266|45.980494|80.122515|6.218292|-2.445460605540546|350.946349093544313|-70.250858|56.787712|57.4010881596854091|Aug 08 02:34:51|30|114.914266|45.980494|80.122515|6.218292|-2.445460605540546|350.946349093544313|-70.250858|53.357824|53.8918401596854092|Aug 08 02:34:52|30|114.914266|45.980494|80.122515|6.218292|-2.445958288133582|350.949212085889883|-70.253984|53.225984|53.7766401596854093|Aug 08 02:34:53|30|114.914266|45.980494|80.122515|6.218292|-2.446455814633453|350.952075106475490|-70.257111|54.876672|55.3684481596854093|Aug 08 02:34:53|30|114.914266|45.980494|80.122515|6.218292|-2.446455814633453|350.952075106475490|-70.257111|53.213184|53.7853441596854094|Aug 08 02:34:54|30|114.914266|45.980494|80.122515|6.218292|-2.446953185037771|350.954938155294997|-70.260238|61.819648|62.4378881596854095|Aug 08 02:34:55|30|114.914266|45.980494|80.122515|6.218292|-2.447450399343381|350.957801232337886|-70.263364|59.500800|60.0570881596854095|Aug 08 02:34:55|30|114.914266|45.980494|80.122515|6.218292|-2.447450399343381|350.957801232337886|-70.263364|53.961984|54.4860161596854096|Aug 08 02:34:56|30|114.914266|45.980494|80.122515|6.218292|-2.447947457547698|350.960664337596711|-70.266491|53.058560|53.6048641596854097|Aug 08 02:34:57|30|114.914266|45.980494|80.122515|6.218292|-2.448444359648121|350.963527471064253|-70.269618|60.549376|61.3900801596854097|Aug 08 02:34:57|30|114.914266|45.980494|80.122515|6.218292|-2.448444359648121|350.963527471064253|-70.269618|69.219328|73.7459201596854098|Aug 08 02:34:58|30|114.914266|45.980494|80.122515|6.218292|-2.448941105641680|350.966390632731020|-70.272745|59.706880|60.2938881596854099|Aug 08 02:34:59|30|114.914266|45.980494|80.122515|6.218292|-2.449437695525390|350.969253822587518|-70.275871|60.602368|61.2001281596854099|Aug 08 02:34:59|30|114.914266|45.980494|80.122515|6.218292|-2.449437695525390|350.969253822587518|-70.275871|58.737664|62.3424001596854100|Aug 08 02:35:00|30|114.914266|45.980494|80.122515|6.218292|-2.449934129296693|350.972117040626415|-70.278998|58.565632|59.1674881596854101|Aug 08 02:35:01|30|114.914266|45.980494|80.122515|6.218292|-2.450430406952833|350.974980286839298|-70.282125|54.525696|55.1009281596854102|Aug 08 02:35:02|30|114.914266|45.980494|80.122515|6.218292|-2.450926528491166|350.977843561218890|-70.285252|55.685120|56.5608961596854102|Aug 08 02:35:02|30|114.914266|45.980494|80.122515|6.218292|-2.450926528491166|350.977843561218890|-70.285252|61.167616|61.7459201596854103|Aug 08 02:35:03|30|114.914266|45.980494|80.122515|6.218292|-2.451422493908595|350.980706863754619|-70.288379|61.099264|65.6296961596854104|Aug 08 02:35:04|30|114.914266|45.980494|80.122515|6.218292|-2.451918303202476|350.983570194439210|-70.291506|54.550784|58.1299201596854104|Aug 08 02:35:04|30|114.914266|45.980494|80.122515|6.218292|-2.451918303202476|350.983570194439210|-70.291506|63.432448|64.2905601596854105|Aug 08 02:35:05|30|114.914266|45.980494|80.122515|6.218292|-2.452413956370080|350.986433553264135|-70.294633|64.959744|68.6353921596854106|Aug 08 02:35:06|30|114.914266|45.980494|80.122515|6.218292|-2.452909453409021|350.989296940223255|-70.297760|57.000448|57.5454721596854106|Aug 08 02:35:06|30|114.914266|45.980494|80.122515|6.218292|-2.452909453409021|350.989296940223255|-70.297760|53.632000|54.1373441596854107|Aug 08 02:35:07|30|114.914266|45.980494|80.122515|6.218292|-2.453404794315745|350.992160355303838|-70.300887|55.489280|59.1216641596854108|Aug 08 02:35:08|30|114.914266|45.980494|80.122515|6.218292|-2.453899979087851|350.995023798499574|-70.304014|57.673728|58.3841281596854108|Aug 08 02:35:08|30|114.914266|45.980494|80.122515|6.218292|-2.453899979087851|350.995023798499574|-70.304014|54.313728|54.9949441596854109|Aug 08 02:35:09|30|114.914266|45.980494|80.122515|6.218292|-2.454395007722596|350.997887269802106|-70.307141|55.874048|60.0890881596854110|Aug 08 02:35:10|30|114.914266|45.980494|80.122515|6.218292|-2.454889880217209|351.000750769203023|-70.310268|66.421248|70.4110081596854110|Aug 08 02:35:10|30|114.914266|45.980494|80.122515|6.218292|-2.454889880217209|351.000750769203023|-70.310268|53.522432|54.0160001596854111|Aug 08 02:35:11|30|114.914266|45.980493|80.122515|6.218292|-2.455384596569104|351.003614296694991|-70.313395|54.699008|58.2755841596854112|Aug 08 02:35:12|30|114.914266|45.980493|80.122515|6.218292|-2.455879156775111|351.006477852267494|-70.316522|53.495808|53.9735041596854112|Aug 08 02:35:12|30|114.914266|45.980493|80.122515|6.218292|-2.455879156775111|351.006477852267494|-70.316522|56.056064|56.4881921596854113|Aug 08 02:35:13|30|114.914266|45.980493|80.122515|6.218292|-2.456373560832887|351.009341435914280|-70.319650|58.256640|62.2269441596854114|Aug 08 02:35:14|30|114.914266|45.980493|80.122515|6.218292|-2.456867808739275|351.012205047624661|-70.322777|53.742080|54.2300161596854114|Aug 08 02:35:14|30|114.914266|45.980493|80.122515|6.218292|-2.456867808739275|351.012205047624661|-70.322777|53.628416|54.2110721596854115|Aug 08 02:35:15|30|114.914266|45.980493|80.122515|6.218292|-2.457361900491875|351.015068687392500|-70.325904|59.681792|60.2168321596854116|Aug 08 02:35:16|30|114.914266|45.980493|80.122515|6.218292|-2.457855836087532|351.017932355207222|-70.329031|59.949312|60.5593601596854117|Aug 08 02:35:17|30|114.914266|45.980493|80.122515|6.218292|-2.458349615523886|351.020796051062575|-70.332159|53.888512|54.4724481596854117|Aug 08 02:35:17|30|114.914266|45.980493|80.122515|6.218292|-2.458349615523886|351.020796051062575|-70.332159|54.880000|55.4777601596854118|Aug 08 02:35:18|30|114.914266|45.980493|80.122515|6.218292|-2.458843238797797|351.023659774947873|-70.335286|58.290688|61.9440641596854119|Aug 08 02:35:19|30|114.914266|45.980493|80.122515|6.218292|-2.459336705906679|351.026523526855954|-70.338413|56.754944|57.2474881596854119|Aug 08 02:35:19|30|114.914266|45.980493|80.122515|6.218292|-2.459336705906679|351.026523526855954|-70.338413|58.519040|59.3203201596854120|Aug 08 02:35:20|30|114.914266|45.980493|80.122515|6.218292|-2.459830016847789|351.029387306778347|-70.341541|57.580288|58.2589441596854121|Aug 08 02:35:21|30|114.914266|45.980493|80.122515|6.218292|-2.460323171618526|351.032251114707719|-70.344668|53.238784|53.6993281596854121|Aug 08 02:35:21|30|114.914266|45.980493|80.122515|6.218292|-2.460323171618526|351.032251114707719|-70.344668|56.729344|57.2756481596854122|Aug 08 02:35:22|30|114.914266|45.980493|80.122515|6.218292|-2.460816170215807|351.035114950633385|-70.347795|56.467968|59.9969281596854123|Aug 08 02:35:23|30|114.914266|45.980493|80.122515|6.218292|-2.461309012637003|351.037978814548239|-70.350923|54.268928|54.7722241596854123|Aug 08 02:35:23|30|114.914266|45.980493|80.122515|6.218292|-2.461309012637003|351.037978814548239|-70.350923|60.134912|64.4689921596854124|Aug 08 02:35:24|30|114.914266|45.980493|80.122515|6.218292|-2.461801698879555|351.040842706444778|-70.354050|53.356544|53.9732481596854125|Aug 08 02:35:25|30|114.914266|45.980493|80.122515|6.218292|-2.462294228940351|351.043706626312485|-70.357178|53.505536|54.0101121596854125|Aug 08 02:35:25|30|114.914266|45.980493|80.122515|6.218292|-2.462294228940351|351.043706626312485|-70.357178|55.126016|56.6942721596854126|Aug 08 02:35:26|30|114.914266|45.980493|80.122515|6.218292|-2.462786602817047|351.046570574145107|-70.360305|57.622016|58.2225921596854127|Aug 08 02:35:27|30|114.914266|45.980493|80.122515|6.218292|-2.463278820506432|351.049434549932016|-70.363433|56.802048|57.3212161596854127|Aug 08 02:35:27|30|114.914266|45.980493|80.122515|6.218292|-2.463278820506432|351.049434549932016|-70.363433|54.408448|55.0568961596854128|Aug 08 02:35:28|30|114.914266|45.980493|80.122515|6.218292|-2.463770882005988|351.052298553665935|-70.366561|58.710528|62.4284161596854129|Aug 08 02:35:29|30|114.914266|45.980493|80.122515|6.218292|-2.464262787312933|351.055162585338394|-70.369688|54.556672|55.0397441596854129|Aug 08 02:35:29|30|114.914266|45.980493|80.122515|6.218292|-2.464262787312933|351.055162585338394|-70.369688|58.251008|58.7696641596854130|Aug 08 02:35:30|30|114.914266|45.980493|80.122515|6.218292|-2.464754536424735|351.058026644942174|-70.372816|59.325696|59.7808641596854131|Aug 08 02:35:31|30|114.914266|45.980493|80.122515|6.218292|-2.465246129338254|351.060890732466589|-70.375943|53.559296|54.1324801596854131|Aug 08 02:35:31|30|114.914266|45.980493|80.122515|6.218292|-2.465246129338254|351.060890732466589|-70.375943|57.165056|57.6716801596854132|Aug 08 02:35:32|30|114.914266|45.980493|80.122515|6.218292|-2.465590157813423|351.062895647498976|-70.378133|59.496192|60.2895361596854133|Aug 08 02:35:33|30|114.914266|45.980493|80.122515|6.218292|-2.466081485182031|351.065759782472526|-70.381260|54.563072|55.1505921596854134|Aug 08 02:35:34|30|114.914266|45.980493|80.122515|6.218292|-2.466572656345093|351.068623945345053|-70.384388|57.067520|57.5825921596854134|Aug 08 02:35:34|30|114.914266|45.980493|80.122515|6.218292|-2.466572656345093|351.068623945345053|-70.384388|57.427968|59.6828161596854135|Aug 08 02:35:35|30|114.914266|45.980493|80.122515|6.218292|-2.467063671299712|351.071488136107007|-70.387516|53.459712|53.9594241596854136|Aug 08 02:35:36|30|114.914266|45.980493|80.122515|6.218292|-2.467554530043316|351.074352354751227|-70.390644|57.885184|62.1821441596854136|Aug 08 02:35:36|30|114.914266|45.980493|80.122515|6.218292|-2.467554530043316|351.074352354751227|-70.390644|60.523520|65.4220801596854137|Aug 08 02:35:37|30|114.914266|45.980493|80.122515|6.218292|-2.468045232573147|351.077216601269129|-70.393772|57.612544|58.2881281596854138|Aug 08 02:35:38|30|114.914266|45.980493|80.122515|6.218292|-2.468535778886476|351.080080875652357|-70.396899|60.623360|64.4608001596854138|Aug 08 02:35:38|30|114.914266|45.980493|80.122515|6.218292|-2.468535778886476|351.080080875652357|-70.396899|54.166784|54.8200961596854139|Aug 08 02:35:39|30|114.914266|45.980493|80.122515|6.218292|-2.469026168980719|351.082945177893635|-70.400027|54.791424|55.4744321596854140|Aug 08 02:35:40|30|114.914266|45.980493|80.122515|6.218292|-2.469516402852790|351.085809507982276|-70.403155|57.727232|58.4256001596854140|Aug 08 02:35:40|30|114.914266|45.980493|80.122515|6.218292|-2.469516402852790|351.085809507982276|-70.403155|53.985792|54.4330241596854141|Aug 08 02:35:41|30|114.914266|45.980493|80.122515|6.218292|-2.470006480500118|351.088673865911005|-70.406283|53.845248|54.3718401596854142|Aug 08 02:35:42|30|114.914266|45.980493|80.122515|6.218292|-2.470496401920144|351.091538251672489|-70.409411|53.368064|53.8677761596854142|Aug 08 02:35:42|30|114.914266|45.980493|80.122515|6.218292|-2.470496401920144|351.091538251672489|-70.409411|53.387264|53.8951681596854143|Aug 08 02:35:43|30|114.914266|45.980493|80.122515|6.218292|-2.470986167109928|351.094402665257178|-70.412539|55.988480|56.4561921596854144|Aug 08 02:35:44|30|114.914266|45.980493|80.122515|6.218292|-2.471475776066541|351.097267106655522|-70.415667|55.892480|62.5008641596854144|Aug 08 02:35:44|30|114.914266|45.980493|80.122515|6.218292|-2.471475776066541|351.097267106655522|-70.415667|64.583168|68.1917441596854145|Aug 08 02:35:45|30|114.914266|45.980493|80.122515|6.218292|-2.471965228787454|351.100131575860189|-70.418795|54.156800|54.6657281596854146|Aug 08 02:35:46|30|114.914266|45.980493|80.122515|6.218292|-2.472454525269910|351.102996072862879|-70.421923|64.995840|68.7290881596854146|Aug 08 02:35:46|30|114.914266|45.980493|80.122515|6.218292|-2.472454525269910|351.102996072862879|-70.421923|62.367488|66.1224961596854147|Aug 08 02:35:47|30|114.914266|45.980493|80.122515|6.218292|-2.472943665511352|351.105860597656147|-70.425051|53.810176|54.2778881596854148|Aug 08 02:35:48|30|114.914266|45.980493|80.122515|6.218292|-2.473432649508680|351.108725150229418|-70.428179|55.835904|59.5760641596854149|Aug 08 02:35:49|30|114.914266|45.980493|80.122515|6.218292|-2.473921477259367|351.111589730575361|-70.431307|61.291520|61.9020801596854149|Aug 08 02:35:49|30|114.914266|45.980493|80.122515|6.218292|-2.473921477259367|351.111589730575361|-70.431307|58.221312|58.8971521596854150|Aug 08 02:35:50|30|114.914266|45.980493|80.122515|6.218292|-2.474410148760612|351.114454338685505|-70.434435|58.703616|59.2209921596854151|Aug 08 02:35:51|30|114.914266|45.980493|80.122515|6.218292|-2.474898664009942|351.117318974552575|-70.437563|53.965824|54.4463361596854151|Aug 08 02:35:51|30|114.914266|45.980493|80.122515|6.218292|-2.474898664009942|351.117318974552575|-70.437563|54.537216|55.0384641596854152|Aug 08 02:35:52|30|114.914266|45.980493|80.122515|6.218292|-2.475387023004373|351.120183638166964|-70.440692|57.200128|61.9151361596854153|Aug 08 02:35:53|30|114.914266|45.980493|80.122515|6.218292|-2.475875225741007|351.123048329519293|-70.443820|56.881920|57.7592321596854153|Aug 08 02:35:53|30|114.914266|45.980493|80.122515|6.218292|-2.475875225741007|351.123048329519293|-70.443820|53.956608|54.4885761596854154|Aug 08 02:35:54|30|114.914266|45.980493|80.122515|6.218292|-2.476363272217313|351.125913048602001|-70.446948|57.950720|58.5269761596854155|Aug 08 02:35:55|30|114.914266|45.980493|80.122515|6.218292|-2.476851162430535|351.128777795406847|-70.450076|59.526912|60.0808961596854155|Aug 08 02:35:55|30|114.914266|45.980493|80.122515|6.218292|-2.476851162430535|351.128777795406847|-70.450076|57.000192|57.5042561596854156|Aug 08 02:35:56|30|114.914266|45.980493|80.122515|6.218292|-2.477338896378143|351.131642569926498|-70.453205|54.772992|58.5853441596854157|Aug 08 02:35:57|30|114.914266|45.980493|80.122515|6.218292|-2.477826474057011|351.134507372150210|-70.456333|54.586112|55.2192001596854158|Aug 08 02:35:58|30|114.914266|45.980493|80.122515|6.218292|-2.478313895464638|351.137372202070765|-70.459461|53.734656|54.2766081596854158|Aug 08 02:35:58|30|114.914266|45.980493|80.122515|6.218292|-2.478313895464638|351.137372202070765|-70.459461|54.450432|55.0684161596854159|Aug 08 02:35:59|30|114.914266|45.980493|80.122515|6.218292|-2.478801160598451|351.140237059680658|-70.462590|56.876544|60.4633601596854160|Aug 08 02:36:00|30|114.914266|45.980493|80.122515|6.218292|-2.479288269455338|351.143101944969487|-70.465718|56.021760|56.6292481596854160|Aug 08 02:36:00|30|114.914266|45.980493|80.122515|6.218292|-2.479288269455338|351.143101944969487|-70.465718|56.029184|59.6193281596854161|Aug 08 02:36:01|30|114.914266|45.980493|80.122515|6.218292|-2.479775222032956|351.145966857930830|-70.468846|58.969856|63.2865281596854162|Aug 08 02:36:02|30|114.914266|45.980493|80.122515|6.218292|-2.480262018328233|351.148831798554170|-70.471975|54.253312|54.7420161596854162|Aug 08 02:36:02|30|114.914266|45.980493|80.122515|6.218292|-2.480262018328233|351.148831798554170|-70.471975|54.032384|54.7194881596854163|Aug 08 02:36:03|30|114.914266|45.980493|80.122515|6.218292|-2.480845969690336|351.152269776195624|-70.475729|53.762560|54.3349761596854164|Aug 08 02:36:04|30|114.914266|45.980493|80.122515|6.218292|-2.481332422154537|351.155134777648072|-70.478857|54.001152|54.5638401596854164|Aug 08 02:36:04|30|114.914266|45.980493|80.122515|6.218292|-2.481332422154537|351.155134777648072|-70.478857|55.492864|56.0463361596854165|Aug 08 02:36:05|30|114.914266|45.980493|80.122515|6.218292|-2.481818718327830|351.157999806736541|-70.481986|56.144384|59.9029761596854166|Aug 08 02:36:06|30|114.914266|45.980493|80.122515|6.218292|-2.482304858207513|351.160864863452673|-70.485114|53.849344|54.4087041596854166|Aug 08 02:36:06|30|114.914266|45.980493|80.122515|6.218292|-2.482304858207513|351.160864863452673|-70.485114|55.854592|56.4405761596854167|Aug 08 02:36:07|30|114.914266|45.980493|80.122515|6.218292|-2.482790841790859|351.163729947787942|-70.488243|53.817088|54.3513601596854168|Aug 08 02:36:08|30|114.914266|45.980493|80.122515|6.218292|-2.483276669075508|351.166595059736153|-70.491372|53.818624|54.3831041596854168|Aug 08 02:36:08|30|114.914266|45.980493|80.122515|6.218292|-2.483276669075508|351.166595059736153|-70.491372|54.003200|54.6004481596854169|Aug 08 02:36:09|30|114.914266|45.980493|80.122515|6.218292|-2.483762340057979|351.169460199284515|-70.494500|55.514368|56.5634561596854170|Aug 08 02:36:10|30|114.914266|45.980493|80.122515|6.218292|-2.484247854736140|351.172325366427742|-70.497629|53.939968|54.4442881596854170|Aug 08 02:36:10|30|114.914266|45.980493|80.122515|6.218292|-2.484247854736140|351.172325366427742|-70.497629|54.397952|54.9073921596854171|Aug 08 02:36:11|30|114.914266|45.980493|80.122515|6.218292|-2.484733213106907|351.175190561155318|-70.500758|57.221376|59.3600001596854172|Aug 08 02:36:12|30|114.914266|45.980493|80.122515|6.218292|-2.485218415167893|351.178055783460991|-70.503886|56.728320|57.2733441596854172|Aug 08 02:36:12|30|114.914266|45.980493|80.122515|6.218292|-2.485218415167893|351.178055783460991|-70.503886|65.896960|73.5462401596854173|Aug 08 02:36:13|30|114.914266|45.980493|80.122515|6.218292|-2.485703460916042|351.180921033334073|-70.507015|64.332032|64.8793601596854174|Aug 08 02:36:14|30|114.914266|45.980493|80.122515|6.218292|-2.486188350348627|351.183786310766152|-70.510144|53.140736|53.5726081596854175|Aug 08 02:36:15|30|114.914266|45.980493|80.122515|6.218292|-2.486673083463472|351.186651615752112|-70.513273|54.603776|55.1610881596854175|Aug 08 02:36:15|30|114.914266|45.980493|80.122515|6.218292|-2.486673083463472|351.186651615752112|-70.513273|57.769216|61.4407681596854176|Aug 08 02:36:16|30|114.914266|45.980493|80.122515|6.218292|-2.487157660257353|351.189516948280129|-70.516401|54.454016|54.9273601596854177|Aug 08 02:36:17|30|114.914266|45.980493|80.122515|6.218292|-2.487642080727881|351.192382308344065|-70.519530|59.311872|63.0656001596854177|Aug 08 02:36:17|30|114.914266|45.980493|80.122515|6.218292|-2.487642080727881|351.192382308344065|-70.519530|59.425536|60.0345601596854178|Aug 08 02:36:18|30|114.914266|45.980493|80.122515|6.218292|-2.488126344871972|351.195247695933176|-70.522659|55.028480|55.6564481596854179|Aug 08 02:36:19|30|114.914266|45.980493|80.122515|6.218292|-2.488610452687297|351.198113111041323|-70.525788|53.326592|53.8293761596854179|Aug 08 02:36:19|30|114.914266|45.980493|80.122515|6.218292|-2.488610452687297|351.198113111041323|-70.525788|57.414656|57.9456001596854180|Aug 08 02:36:20|30|114.914266|45.980493|80.122515|6.218292|-2.489094404170771|351.200978553657762|-70.528917|54.078720|54.5838081596854181|Aug 08 02:36:21|30|114.914266|45.980493|80.122515|6.218292|-2.489578199320107|351.203844023776242|-70.532046|54.978816|55.5973121596854181|Aug 08 02:36:21|30|114.914266|45.980493|80.122515|6.218292|-2.489578199320107|351.203844023776242|-70.532046|62.762752|63.3507841596854182|Aug 08 02:36:22|30|114.914266|45.980493|80.122515|6.218292|-2.490061838132121|351.206709521386244|-70.535175|61.181184|61.7587201596854183|Aug 08 02:36:23|30|114.914266|45.980493|80.122515|6.218292|-2.490545320604397|351.209575046480268|-70.538304|55.828480|56.3343361596854183|Aug 08 02:36:23|30|114.914266|45.980493|80.122515|6.218292|-2.490545320604397|351.209575046480268|-70.538304|55.093248|58.5761281596854184|Aug 08 02:36:24|30|114.914266|45.980493|80.122515|6.218292|-2.491028646734122|351.212440599049955|-70.541433|56.647168|57.1896321596854185|Aug 08 02:36:25|30|114.914266|45.980493|80.122515|6.218292|-2.491511816518624|351.215306179086838|-70.544562|56.408320|60.3786241596854185|Aug 08 02:36:25|30|114.914266|45.980493|80.122515|6.218292|-2.491511816518624|351.215306179086838|-70.544562|54.518528|57.9540481596854186|Aug 08 02:36:26|30|114.914266|45.980493|80.122515|6.218292|-2.491994829955431|351.218171786583582|-70.547691|59.706880|60.2792961596854187|Aug 08 02:36:27|30|114.914266|45.980493|80.122515|6.218292|-2.492477687041415|351.221037421529502|-70.550820|54.058240|54.6252801596854187|Aug 08 02:36:27|30|114.914266|45.980493|80.122515|6.218292|-2.492477687041415|351.221037421529502|-70.550820|54.585856|58.0078081596854188|Aug 08 02:36:28|30|114.914266|45.980493|80.122515|6.218292|-2.492960387774275|351.223903083918401|-70.553949|54.069504|54.6304001596854189|Aug 08 02:36:29|30|114.914266|45.980493|80.122515|6.218292|-2.493442932150913|351.226768773739536|-70.557078|60.072704|64.261632********************* August 08 Observing Session - beginning 03:04:43 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1596855883|Aug 08 03:04:43|30|114.914265|45.980487|80.122515|6.218292|-3.084513675961063|356.113887044143155|-75.888015|506.528768|507.0300161596855884|Aug 08 03:04:44|30|114.914265|45.980487|80.122515|6.218292|-3.084727980205486|356.116786682964971|-75.891175|54.707968|56.6325761596855885|Aug 08 03:04:45|30|114.914265|45.980487|80.122515|6.218292|-3.084942124733828|356.119686334206165|-75.894336|55.758592|60.4833281596855886|Aug 08 03:04:46|30|114.914265|45.980487|80.122515|6.218292|-3.085156109544755|356.122585997855140|-75.897496|53.599232|54.3859201596855886|Aug 08 03:04:46|30|114.914265|45.980487|80.122515|6.218292|-3.085156109544755|356.122585997855140|-75.897496|54.132736|54.6964481596855887|Aug 08 03:04:47|30|114.914265|45.980487|80.122515|6.218292|-3.085369934637157|356.125485673904961|-75.900657|56.890880|57.3368321596855888|Aug 08 03:04:48|30|114.914265|45.980487|80.122515|6.218292|-3.085583600009642|356.128385362344375|-75.903818|55.997696|56.6218241596855888|Aug 08 03:04:48|30|114.914265|45.980487|80.122515|6.218292|-3.085583600009642|356.128385362344375|-75.903818|58.604800|62.2632961596855889|Aug 08 03:04:49|30|114.914265|45.980487|80.122515|6.218292|-3.085797105661072|356.131285063165137|-75.906978|59.956992|60.5680641596855890|Aug 08 03:04:50|30|114.914265|45.980487|80.122515|6.218292|-3.086010451590298|356.134184776359405|-75.910139|54.339840|58.2371841596855890|Aug 08 03:04:50|30|114.914265|45.980487|80.122515|6.218292|-3.086010451590298|356.134184776359405|-75.910139|54.270720|57.8360321596855891|Aug 08 03:04:51|30|114.914265|45.980487|80.122515|6.218292|-3.086223637795939|356.137084501915581|-75.913299|56.042240|56.7618561596855892|Aug 08 03:04:52|30|114.914265|45.980487|80.122515|6.218292|-3.086436664276917|356.139984239826902|-75.916460|55.757056|56.2168321596855892|Aug 08 03:04:52|30|114.914265|45.980487|80.122515|6.218292|-3.086436664276917|356.139984239826902|-75.916460|56.527360|60.2478081596855893|Aug 08 03:04:53|30|114.914265|45.980487|80.122515|6.218292|-3.086649531031824|356.142883990081771|-75.919620|54.558208|55.1075841596855894|Aug 08 03:04:54|30|114.914265|45.980487|80.122515|6.218292|-3.086862238059581|356.145783752672230|-75.922781|58.253056|58.7778561596855895|Aug 08 03:04:55|30|114.914265|45.980487|80.122515|6.218292|-3.087074785358908|356.148683527589128|-75.925942|55.363328|59.2496641596855895|Aug 08 03:04:55|30|114.914265|45.980487|80.122515|6.218292|-3.087074785358908|356.148683527589128|-75.925942|53.394176|53.9973121596855896|Aug 08 03:04:56|30|114.914265|45.980487|80.122515|6.218292|-3.087287172928669|356.151583314824450|-75.929102|53.180160|53.6977921596855897|Aug 08 03:04:57|30|114.914265|45.980487|80.122515|6.218292|-3.087499400767499|356.154483114366599|-75.932263|55.565824|56.1384961596855897|Aug 08 03:04:57|30|114.914265|45.980487|80.122515|6.218292|-3.087499400767499|356.154483114366599|-75.932263|53.721600|54.2993921596855898|Aug 08 03:04:58|30|114.914265|45.980486|80.122515|6.218292|-3.087711468874318|356.157382926208868|-75.935424|53.997824|54.7712001596855899|Aug 08 03:04:59|30|114.914265|45.980486|80.122515|6.218292|-3.087923377247762|356.160282750339718|-75.938584|57.902592|58.5694721596855899|Aug 08 03:04:59|30|114.914265|45.980486|80.122515|6.218292|-3.087923377247762|356.160282750339718|-75.938584|53.387776|53.9287041596855900|Aug 08 03:05:00|30|114.914265|45.980486|80.122515|6.218292|-3.088135125886680|356.163182586751077|-75.941745|55.621120|59.3802241596855901|Aug 08 03:05:01|30|114.914265|45.980486|80.122515|6.218292|-3.088346714789935|356.166082435434930|-75.944906|54.836480|57.2625921596855901|Aug 08 03:05:01|30|114.914265|45.980486|80.122515|6.218292|-3.088346714789935|356.166082435434930|-75.944906|54.002944|54.5807361596855902|Aug 08 03:05:02|30|114.914265|45.980486|80.122515|6.218292|-3.088558143956149|356.168982296379909|-75.948066|58.383872|58.8605441596855903|Aug 08 03:05:03|30|114.914265|45.980486|80.122515|6.218292|-3.088769413384213|356.171882169577884|-75.951227|57.676544|61.4400001596855903|Aug 08 03:05:03|30|114.914265|45.980486|80.122515|6.218292|-3.088769413384213|356.171882169577884|-75.951227|54.515456|55.0773761596855904|Aug 08 03:05:04|30|114.914265|45.980486|80.122515|6.218292|-3.088980523072877|356.174782055019762|-75.954388|53.826816|54.3349761596855905|Aug 08 03:05:05|30|114.914265|45.980486|80.122515|6.218292|-3.089191473021003|356.177681952697412|-75.957549|54.432768|57.8112001596855905|Aug 08 03:05:05|30|114.914265|45.980486|80.122515|6.218292|-3.089191473021003|356.177681952697412|-75.957549|57.741312|58.3856641596855906|Aug 08 03:05:06|30|114.914265|45.980486|80.122515|6.218292|-3.089402263227228|356.180581862599411|-75.960709|53.146624|53.8524161596855907|Aug 08 03:05:07|30|114.914265|45.980486|80.122515|6.218292|-3.089612893690514|356.183481784718879|-75.963870|55.728640|59.6316161596855907|Aug 08 03:05:07|30|114.914265|45.980486|80.122515|6.218292|-3.089612893690514|356.183481784718879|-75.963870|57.103360|57.5943681596855908|Aug 08 03:05:08|30|114.914265|45.980486|80.122515|6.218292|-3.089823364409469|356.186381719044391|-75.967031|54.910464|58.7136001596855909|Aug 08 03:05:09|30|114.914265|45.980486|80.122515|6.218292|-3.090033675382983|356.189281665567819|-75.970192|57.765120|61.6814081596855909|Aug 08 03:05:09|30|114.914265|45.980486|80.122515|6.218292|-3.090033675382983|356.189281665567819|-75.970192|53.976320|54.6621441596855910|Aug 08 03:05:10|30|114.914265|45.980486|80.122515|6.218292|-3.090243826609893|356.192181624281261|-75.973352|53.684480|54.2059521596855911|Aug 08 03:05:11|30|114.914265|45.980486|80.122515|6.218292|-3.090453818088847|356.195081595173122|-75.976513|53.506560|54.0331521596855912|Aug 08 03:05:12|30|114.914265|45.980486|80.122515|6.218292|-3.090663649818808|356.197981578236579|-75.979674|53.296128|53.8357761596855912|Aug 08 03:05:12|30|114.914265|45.980486|80.122515|6.218292|-3.090663649818808|356.197981578236579|-75.979674|59.265024|59.9943681596855913|Aug 08 03:05:13|30|114.914265|45.980486|80.122515|6.218292|-3.090873321798369|356.200881573460151|-75.982835|53.873664|54.3818241596855914|Aug 08 03:05:14|30|114.914265|45.980486|80.122515|6.218292|-3.091082834026466|356.203781580835823|-75.985996|54.063872|54.6449921596855914|Aug 08 03:05:14|30|114.914265|45.980486|80.122515|6.218292|-3.091082834026466|356.203781580835823|-75.985996|59.835648|63.6062721596855915|Aug 08 03:05:15|30|114.914265|45.980486|80.122515|6.218292|-3.091292186501860|356.206681600354443|-75.989157|57.731840|59.0512641596855916|Aug 08 03:05:16|30|114.914265|45.980486|80.122515|6.218292|-3.091501379223402|356.209581632007882|-75.992317|53.270016|53.7428481596855916|Aug 08 03:05:16|30|114.914265|45.980486|80.122515|6.218292|-3.091501379223402|356.209581632007882|-75.992317|55.174400|58.6744321596855917|Aug 08 03:05:17|30|114.914265|45.980486|80.122515|6.218292|-3.091710412189826|356.212481675785909|-75.995478|53.737216|54.2730241596855918|Aug 08 03:05:18|30|114.914265|45.980486|80.122515|6.218292|-3.091919285399783|356.215381731677041|-75.998639|58.113792|58.6816001596855918|Aug 08 03:05:18|30|114.914265|45.980486|80.122515|6.218292|-3.091919285399783|356.215381731677041|-75.998639|58.347264|62.2932481596855919|Aug 08 03:05:19|30|114.914265|45.980486|80.122515|6.218292|-3.092127998852376|356.218281799676618|-76.001800|58.264320|62.0288001596855920|Aug 08 03:05:20|30|114.914265|45.980486|80.122515|6.218292|-3.092336552546200|356.221181879772075|-76.004961|55.442944|56.1528321596855920|Aug 08 03:05:20|30|114.914265|45.980486|80.122515|6.218292|-3.092336552546200|356.221181879772075|-76.004961|54.268672|54.7793921596855921|Aug 08 03:05:21|30|114.914265|45.980486|80.122515|6.218292|-3.092544946480146|356.224081971956480|-76.008122|56.521728|57.0193921596855922|Aug 08 03:05:22|30|114.914265|45.980486|80.122515|6.218292|-3.092753180652906|356.226982076218519|-76.011283|54.413568|54.9189121596855922|Aug 08 03:05:22|30|114.914265|45.980486|80.122515|6.218292|-3.092753180652906|356.226982076218519|-76.011283|57.846528|58.3971841596855923|Aug 08 03:05:23|30|114.914265|45.980486|80.122515|6.218292|-3.092961255063344|356.229882192549951|-76.014444|57.655296|61.6926721596855924|Aug 08 03:05:24|30|114.914265|45.980486|80.122515|6.218292|-3.093169169710265|356.232782320941681|-76.017605|53.347328|53.8109441596855924|Aug 08 03:05:24|30|114.914265|45.980486|80.122515|6.218292|-3.093169169710265|356.232782320941681|-76.017605|53.946624|54.4348161596855925|Aug 08 03:05:25|30|114.914265|45.980486|80.122515|6.218292|-3.093376924592661|356.235682461386773|-76.020766|54.113024|54.7202561596855926|Aug 08 03:05:26|30|114.914265|45.980486|80.122515|6.218292|-3.093584519708941|356.238582613871586|-76.023927|56.518144|57.0378241596855926|Aug 08 03:05:26|30|114.914265|45.980486|80.122515|6.218292|-3.093584519708941|356.238582613871586|-76.023927|56.219136|56.7196161596855927|Aug 08 03:05:27|30|114.914265|45.980486|80.122515|6.218292|-3.093791955058123|356.241482778389184|-76.027088|54.312704|54.8487681596855928|Aug 08 03:05:28|30|114.914265|45.980486|80.122515|6.218292|-3.093999230639099|356.244382954931439|-76.030249|54.003968|54.6053121596855928|Aug 08 03:05:28|30|114.914265|45.980486|80.122515|6.218292|-3.093999230639099|356.244382954931439|-76.030249|57.026816|57.7418241596855929|Aug 08 03:05:29|30|114.914265|45.980486|80.122515|6.218292|-3.094206346450491|356.247283143486925|-76.033410|60.335616|60.9932801596855930|Aug 08 03:05:30|30|114.914265|45.980486|80.122515|6.218292|-3.094413302491290|356.250183344048878|-76.036571|53.868288|54.4522241596855931|Aug 08 03:05:31|30|114.914265|45.980486|80.122515|6.218292|-3.094620098760132|356.253083556605588|-76.039732|56.513024|57.5424001596855931|Aug 08 03:05:31|30|114.914265|45.980486|80.122515|6.218292|-3.094620098760132|356.253083556605588|-76.039732|57.574656|61.1770881596855932|Aug 08 03:05:32|30|114.914265|45.980486|80.122515|6.218292|-3.094826735255921|356.255983781149212|-76.042893|58.713344|59.4744321596855933|Aug 08 03:05:33|30|114.914265|45.980486|80.122515|6.218292|-3.095033211977437|356.258884017670539|-76.046054|55.665408|59.7985281596855933|Aug 08 03:05:33|30|114.914265|45.980486|80.122515|6.218292|-3.095033211977437|356.258884017670539|-76.046054|54.582016|55.0940161596855934|Aug 08 03:05:34|30|114.914265|45.980486|80.122515|6.218292|-3.095239528923599|356.261784266161385|-76.049215|54.420736|55.6753921596855935|Aug 08 03:05:35|30|114.914265|45.980486|80.122515|6.218292|-3.095445686093043|356.264684526610495|-76.052376|58.799360|62.8715521596855935|Aug 08 03:05:35|30|114.914265|45.980486|80.122515|6.218292|-3.095445686093043|356.264684526610495|-76.052376|53.224960|53.7579521596855936|Aug 08 03:05:36|30|114.914265|45.980486|80.122515|6.218292|-3.095651683484675|356.267584799009683|-76.055537|56.906496|57.5247361596855937|Aug 08 03:05:37|30|114.914265|45.980486|80.122515|6.218292|-3.095857521097358|356.270485083350934|-76.058698|61.523200|65.4241281596855937|Aug 08 03:05:37|30|114.914265|45.980486|80.122515|6.218292|-3.095857521097358|356.270485083350934|-76.058698|56.241408|56.8519681596855938|Aug 08 03:05:38|30|114.914265|45.980486|80.122515|6.218292|-3.096063198929798|356.273385379622823|-76.061859|66.874368|70.6575361596855939|Aug 08 03:05:39|30|114.914265|45.980486|80.122515|6.218292|-3.096268716980944|356.276285687818358|-76.065020|62.402048|65.8626561596855939|Aug 08 03:05:39|30|114.914265|45.980486|80.122515|6.218292|-3.096268716980944|356.276285687818358|-76.065020|54.296064|54.8267521596855940|Aug 08 03:05:40|30|114.914265|45.980486|80.122515|6.218292|-3.096474075249461|356.279186007926171|-76.068181|53.999872|54.5228801596855941|Aug 08 03:05:41|30|114.914265|45.980486|80.122515|6.218292|-3.096679273734210|356.282086339938246|-76.071343|56.225792|60.5232641596855941|Aug 08 03:05:41|30|114.914265|45.980486|80.122515|6.218292|-3.096679273734210|356.282086339938246|-76.071343|54.078720|54.6083841596855942|Aug 08 03:05:42|30|114.914265|45.980486|80.122515|6.218292|-3.096884312434042|356.284986683845204|-76.074504|53.724928|54.3552001596855943|Aug 08 03:05:43|30|114.914265|45.980486|80.122515|6.218292|-3.097089191347877|356.287887039639202|-76.077665|58.702592|59.4526721596855943|Aug 08 03:05:43|30|114.914265|45.980486|80.122515|6.218292|-3.097089191347877|356.287887039639202|-76.077665|54.500352|54.9647361596855944|Aug 08 03:05:44|30|114.914265|45.980486|80.122515|6.218292|-3.097293910474320|356.290787407308699|-76.080826|71.160832|72.6986241596855945|Aug 08 03:05:45|30|114.914265|45.980486|80.122515|6.218292|-3.097498469812422|356.293687786846760|-76.083987|53.174528|54.0533761596855945|Aug 08 03:05:45|30|114.914265|45.980486|80.122515|6.218292|-3.097498469812422|356.293687786846760|-76.083987|54.198272|54.7110401596855946|Aug 08 03:05:46|30|114.914265|45.980486|80.122515|6.218292|-3.097702869360759|356.296588178242018|-76.087148|56.441856|60.0071681596855947|Aug 08 03:05:47|30|114.914265|45.980486|80.122515|6.218292|-3.097907109118324|356.299488581486287|-76.090310|55.321600|56.0719361596855947|Aug 08 03:05:47|30|114.914265|45.980486|80.122515|6.218292|-3.097907109118324|356.299488581486287|-76.090310|57.917696|58.5269761596855948|Aug 08 03:05:48|30|114.914265|45.980486|80.122515|6.218292|-3.098111189083966|356.302388996571665|-76.093471|55.983872|59.6805121596855949|Aug 08 03:05:49|30|114.914265|45.980486|80.122515|6.218292|-3.098315109256376|356.305289423486556|-76.096632|56.034560|59.6060161596855950|Aug 08 03:05:50|30|114.914265|45.980486|80.122515|6.218292|-3.098518869634447|356.308189862223003|-76.099793|59.427072|60.4968961596855950|Aug 08 03:05:50|30|114.914265|45.980486|80.122515|6.218292|-3.098518869634447|356.308189862223003|-76.099793|56.034816|59.9073281596855951|Aug 08 03:05:51|30|114.914265|45.980486|80.122515|6.218292|-3.098722470216984|356.311090312771796|-76.102955|56.956672|60.5135361596855952|Aug 08 03:05:52|30|114.914265|45.980486|80.122515|6.218292|-3.098925911002922|356.313990775124864|-76.106116|54.013184|54.5395201596855952|Aug 08 03:05:52|30|114.914265|45.980486|80.122515|6.218292|-3.098925911002922|356.313990775124864|-76.106116|54.313216|57.9517441596855953|Aug 08 03:05:53|30|114.914265|45.980486|80.122515|6.218292|-3.099129191990940|356.316891249270725|-76.109277|55.782144|59.2309761596855954|Aug 08 03:05:54|30|114.914265|45.980486|80.122515|6.218292|-3.099332313180014|356.319791735202500|-76.112438|57.234176|57.9146241596855954|Aug 08 03:05:54|30|114.914265|45.980486|80.122515|6.218292|-3.099332313180014|356.319791735202500|-76.112438|56.794112|60.5890561596855955|Aug 08 03:05:55|30|114.914265|45.980486|80.122515|6.218292|-3.099535274568794|356.322692232908821|-76.115600|57.965568|61.9136001596855956|Aug 08 03:05:56|30|114.914265|45.980486|80.122515|6.218292|-3.099738076156214|356.325592742381389|-76.118761|52.976128|53.4840321596855956|Aug 08 03:05:56|30|114.914265|45.980486|80.122515|6.218292|-3.099738076156214|356.325592742381389|-76.118761|53.926400|54.4371201596855957|Aug 08 03:05:57|30|114.914265|45.980486|80.122515|6.218292|-3.099940717941195|356.328493263612415|-76.121922|55.911680|56.4787201596855958|Aug 08 03:05:58|30|114.914265|45.980486|80.122515|6.218292|-3.100143199922400|356.331393796590305|-76.125084|60.551168|61.1499521596855958|Aug 08 03:05:58|30|114.914265|45.980486|80.122515|6.218292|-3.100143199922400|356.331393796590305|-76.125084|53.366528|53.9929601596855959|Aug 08 03:05:59|30|114.914265|45.980486|80.122515|6.218292|-3.100345522098806|356.334294341308123|-76.128245|54.044160|54.5728001596855960|Aug 08 03:06:00|30|114.914265|45.980486|80.122515|6.218292|-3.100547684469106|356.337194897754500|-76.131406|58.465280|59.0686721596855960|Aug 08 03:06:00|30|114.914265|45.980486|80.122515|6.218292|-3.100547684469106|356.337194897754500|-76.131406|55.013888|58.6311681596855961|Aug 08 03:06:01|30|114.914265|45.980486|80.122515|6.218292|-3.100749687032220|356.340095465921308|-76.134568|53.359360|53.8823681596855962|Aug 08 03:06:02|30|114.914265|45.980486|80.122515|6.218292|-3.100951529786968|356.342996045799339|-76.137729|53.230336|53.8408961596855962|Aug 08 03:06:02|30|114.914265|45.980486|80.122515|6.218292|-3.100951529786968|356.342996045799339|-76.137729|55.492352|58.9219841596855963|Aug 08 03:06:03|30|114.914265|45.980486|80.122515|6.218292|-3.101153212732285|356.345896637380633|-76.140890|54.408704|58.1414401596855964|Aug 08 03:06:04|30|114.914265|45.980486|80.122515|6.218292|-3.101354735866892|356.348797240654790|-76.144052|56.722432|57.3102081596855964|Aug 08 03:06:04|30|114.914265|45.980486|80.122515|6.218292|-3.101354735866892|356.348797240654790|-76.144052|53.447680|53.9786241596855965|Aug 08 03:06:05|30|114.914265|45.980486|80.122515|6.218292|-3.101556099189622|356.351697855611462|-76.147213|53.523456|54.1437441596855966|Aug 08 03:06:06|30|114.914265|45.980486|80.122515|6.218292|-3.101757302699326|356.354598482242693|-76.150375|54.381056|54.9076481596855966|Aug 08 03:06:06|30|114.914265|45.980486|80.122515|6.218292|-3.101757302699326|356.354598482242693|-76.150375|54.651136|55.1751681596855967|Aug 08 03:06:07|30|114.914265|45.980486|80.122515|6.218292|-3.101958346394980|356.357499120540353|-76.153536|54.366976|57.7090561596855968|Aug 08 03:06:08|30|114.914265|45.980486|80.122515|6.218292|-3.102159230275305|356.360399770494098|-76.156697|53.634304|54.2538241596855969|Aug 08 03:06:09|30|114.914265|45.980486|80.122515|6.218292|-3.102359954338951|356.363300432092558|-76.159859|56.499200|60.2219521596855969|Aug 08 03:06:09|30|114.914265|45.980486|80.122515|6.218292|-3.102359954338951|356.363300432092558|-76.159859|55.278080|56.1034241596855970|Aug 08 03:06:10|30|114.914265|45.980486|80.122515|6.218292|-3.102560518585179|356.366201105330958|-76.163020|53.826048|54.5185281596855971|Aug 08 03:06:11|30|114.914265|45.980486|80.122515|6.218292|-3.102760923012525|356.369101790196794|-76.166182|53.172224|53.6532481596855971|Aug 08 03:06:11|30|114.914265|45.980486|80.122515|6.218292|-3.102760923012525|356.369101790196794|-76.166182|66.295296|70.4189441596855972|Aug 08 03:06:12|30|114.914265|45.980486|80.122515|6.218292|-3.102961167620023|356.372002486683073|-76.169343|56.509184|57.1732481596855973|Aug 08 03:06:13|30|114.914265|45.980486|80.122515|6.218292|-3.103161252406323|356.374903194778426|-76.172505|54.632448|55.2404481596855973|Aug 08 03:06:13|30|114.914265|45.980486|80.122515|6.218292|-3.103161252406323|356.374903194778426|-76.172505|55.463424|56.0975361596855974|Aug 08 03:06:14|30|114.914265|45.980486|80.122515|6.218292|-3.103361177370402|356.377803914474782|-76.175666|56.515328|60.4736001596855975|Aug 08 03:06:15|30|114.914265|45.980486|80.122515|6.218292|-3.103560942511081|356.380704645762819|-76.178828|52.992256|53.5211521596855975|Aug 08 03:06:15|30|114.914265|45.980486|80.122515|6.218292|-3.103560942511081|356.380704645762819|-76.178828|53.983744|54.5241601596855976|Aug 08 03:06:16|30|114.914265|45.980486|80.122515|6.218292|-3.103760547827306|356.383605388634635|-76.181989|56.164864|59.7898241596855977|Aug 08 03:06:17|30|114.914265|45.980486|80.122515|6.218292|-3.103959993317829|356.386506143079771|-76.185151|57.692416|61.6985601596855977|Aug 08 03:06:17|30|114.914265|45.980486|80.122515|6.218292|-3.103959993317829|356.386506143079771|-76.185151|53.780736|54.3004161596855978|Aug 08 03:06:18|30|114.914265|45.980486|80.122515|6.218292|-3.104159278981427|356.389406909087995|-76.188312|55.756288|59.5445761596855979|Aug 08 03:06:19|30|114.914265|45.980486|80.122515|6.218292|-3.104358404817035|356.392307686651236|-76.191474|53.426432|54.1104641596855979|Aug 08 03:06:19|30|114.914265|45.980486|80.122515|6.218292|-3.104358404817035|356.392307686651236|-76.191474|53.701120|54.1926401596855980|Aug 08 03:06:20|30|114.914265|45.980486|80.122515|6.218292|-3.104557370823500|356.395208475760228|-76.194636|53.275392|53.8634241596855981|Aug 08 03:06:21|30|114.914265|45.980486|80.122515|6.218292|-3.104756176999757|356.398109276407013|-76.197797|56.278528|59.8300161596855981|Aug 08 03:06:21|30|114.914265|45.980486|80.122515|6.218292|-3.104756176999757|356.398109276407013|-76.197797|57.099008|57.9514881596855982|Aug 08 03:06:22|30|114.914265|45.980486|80.122515|6.218292|-3.104954823344514|356.401010088579994|-76.200959|55.042048|58.4814081596855983|Aug 08 03:06:23|30|114.914265|45.980486|80.122515|6.218292|-3.105153309856703|356.403910912271272|-76.204120|54.758144|58.2097921596855983|Aug 08 03:06:23|30|114.914265|45.980486|80.122515|6.218292|-3.105153309856703|356.403910912271272|-76.204120|53.081600|53.7067521596855984|Aug 08 03:06:24|30|114.914265|45.980486|80.122515|6.218292|-3.105351636535161|356.406811747471522|-76.207282|54.589184|58.0579841596855985|Aug 08 03:06:25|30|114.914265|45.980486|80.122515|6.218292|-3.105549803378864|356.409712594172788|-76.210444|53.885440|57.2147201596855985|Aug 08 03:06:25|30|114.914265|45.980486|80.122515|6.218292|-3.105549803378864|356.409712594172788|-76.210444|53.828352|54.4192001596855986|Aug 08 03:06:26|30|114.914265|45.980486|80.122515|6.218292|-3.105747810386546|356.412613452364610|-76.213605|62.591488|63.2632321596855987|Aug 08 03:06:27|30|114.914265|45.980486|80.122515|6.218292|-3.105945657557001|356.415514322036813|-76.216767|55.405568|59.2043521596855988|Aug 08 03:06:28|30|114.914265|45.980486|80.122515|6.218292|-3.106143344889205|356.418415203181212|-76.219928|56.435456|56.9044481596855988|Aug 08 03:06:28|30|114.914265|45.980486|80.122515|6.218292|-3.106143344889205|356.418415203181212|-76.219928|58.001664|58.5333761596855989|Aug 08 03:06:29|30|114.914265|45.980486|80.122515|6.218292|-3.106340872381963|356.421316095788598|-76.223090|53.712384|54.2638081596855990|Aug 08 03:06:30|30|114.914265|45.980486|80.122515|6.218292|-3.106538240034254|356.424216999851012|-76.226252|55.796736|56.2421761596855990|Aug 08 03:06:30|30|114.914265|45.980486|80.122515|6.218292|-3.106538240034254|356.424216999851012|-76.226252|60.441856|61.0808321596855991|Aug 08 03:06:31|30|114.914265|45.980486|80.122515|6.218292|-3.106735447844784|356.427117915356916|-76.229413|57.120256|57.7254401596855992|Aug 08 03:06:32|30|114.914265|45.980486|80.122515|6.218292|-3.106932495812543|356.430018842299432|-76.232575|58.940672|59.4536961596855992|Aug 08 03:06:32|30|114.914265|45.980486|80.122515|6.218292|-3.106932495812543|356.430018842299432|-76.232575|58.128640|58.7484161596855993|Aug 08 03:06:33|30|114.914265|45.980486|80.122515|6.218292|-3.107129383936211|356.432919780665884|-76.235737|54.014720|54.9452801596855994|Aug 08 03:06:34|30|114.914265|45.980486|80.122515|6.218292|-3.107326112215006|356.435820730452804|-76.238899|58.386176|58.8853761596855994|Aug 08 03:06:34|30|114.914265|45.980486|80.122515|6.218292|-3.107326112215006|356.435820730452804|-76.238899|54.543104|58.2832641596855995|Aug 08 03:06:35|30|114.914265|45.980486|80.122515|6.218292|-3.107522680647406|356.438721691645299|-76.242060|54.267648|57.5623681596855996|Aug 08 03:06:36|30|114.914265|45.980486|80.122515|6.218292|-3.107719089232447|356.441622664236547|-76.245222|56.214272|56.7797761596855996|Aug 08 03:06:36|30|114.914265|45.980486|80.122515|6.218292|-3.107719089232447|356.441622664236547|-76.245222|57.918976|58.5108481596855997|Aug 08 03:06:37|30|114.914265|45.980486|80.122515|6.218292|-3.107915337968976|356.444523648217171|-76.248384|54.636800|58.1921281596855998|Aug 08 03:06:38|30|114.914265|45.980486|80.122515|6.218292|-3.108111426855913|356.447424643578017|-76.251545|55.925504|56.5734401596855998|Aug 08 03:06:38|30|114.914265|45.980486|80.122515|6.218292|-3.108111426855913|356.447424643578017|-76.251545|59.483136|63.5796481596855999|Aug 08 03:06:39|30|114.914265|45.980486|80.122515|6.218292|-3.108307355892151|356.450325650311129|-76.254707|56.006400|59.7911041596856000|Aug 08 03:06:40|30|114.914265|45.980486|80.122515|6.218292|-3.108503125076410|356.453226668404966|-76.257869|53.233664|53.7095681596856000|Aug 08 03:06:40|30|114.914265|45.980486|80.122515|6.218292|-3.108503125076410|356.453226668404966|-76.257869|56.082688|56.7825921596856001|Aug 08 03:06:41|30|114.914265|45.980486|80.122515|6.218292|-3.108698734407767|356.456127697852537|-76.261031|53.405696|53.9051521596856002|Aug 08 03:06:42|30|114.914265|45.980486|80.122515|6.218292|-3.108894183884914|356.459028738642417|-76.264193|55.586048|56.1789441596856002|Aug 08 03:06:42|30|114.914265|45.980486|80.122515|6.218292|-3.108894183884914|356.459028738642417|-76.264193|54.323968|54.9317121596856003|Aug 08 03:06:43|30|114.914265|45.980486|80.122515|6.218292|-3.109089473506870|356.461929790767783|-76.267354|54.612992|55.1664641596856004|Aug 08 03:06:44|30|114.914265|45.980486|80.122515|6.218292|-3.109284603272357|356.464830854217041|-76.270516|56.083968|56.8199681596856004|Aug 08 03:06:44|30|114.914265|45.980486|80.122515|6.218292|-3.109284603272357|356.464830854217041|-76.270516|57.778688|58.2371841596856005|Aug 08 03:06:45|30|114.914265|45.980486|80.122515|6.218292|-3.109479573180423|356.467731928983255|-76.273678|56.555776|57.2349441596856006|Aug 08 03:06:46|30|114.914265|45.980486|80.122515|6.218292|-3.109674383229731|356.470633015055000|-76.276840|53.815808|54.3111681596856007|Aug 08 03:06:47|30|114.914265|45.980486|80.122515|6.218292|-3.109869033419315|356.473534112424204|-76.280002|56.513024|60.6008321596856007|Aug 08 03:06:47|30|114.914265|45.980486|80.122515|6.218292|-3.109869033419315|356.473534112424204|-76.280002|58.478848|59.2732161596856008|Aug 08 03:06:48|30|114.914265|45.980486|80.122515|6.218292|-3.110063523748096|356.476435221082795|-76.283164|54.672128|55.2453121596856009|Aug 08 03:06:49|30|114.914265|45.980486|80.122515|6.218292|-3.110257854214808|356.479336341019348|-76.286325|55.636480|59.8136321596856009|Aug 08 03:06:49|30|114.914265|45.980486|80.122515|6.218292|-3.110257854214808|356.479336341019348|-76.286325|54.195968|54.7932161596856010|Aug 08 03:06:50|30|114.914265|45.980486|80.122515|6.218292|-3.110452024818471|356.482237472226871|-76.289487|54.551808|58.4775681596856011|Aug 08 03:06:51|30|114.914265|45.980486|80.122515|6.218292|-3.110646035557821|356.485138614693881|-76.292649|57.030656|60.9213441596856011|Aug 08 03:06:51|30|114.914265|45.980486|80.122515|6.218292|-3.110646035557821|356.485138614693881|-76.292649|54.705920|55.2957441596856012|Aug 08 03:06:52|30|114.914265|45.980486|80.122515|6.218292|-3.110839886431819|356.488039768412307|-76.295811|59.454464|63.5776001596856013|Aug 08 03:06:53|30|114.914265|45.980486|80.122515|6.218292|-3.111033577439343|356.490940933373054|-76.298973|54.502400|58.2609921596856013|Aug 08 03:06:53|30|114.914265|45.980486|80.122515|6.218292|-3.111033577439343|356.490940933373054|-76.298973|56.115968|56.7457281596856014|Aug 08 03:06:54|30|114.914265|45.980486|80.122515|6.218292|-3.111227108579371|356.493842109567936|-76.302135|54.542080|58.0748801596856015|Aug 08 03:06:55|30|114.914265|45.980486|80.122515|6.218292|-3.111420479850665|356.496743296986665|-76.305297|56.366336|60.0440321596856015|Aug 08 03:06:55|30|114.914265|45.980486|80.122515|6.218292|-3.111420479850665|356.496743296986665|-76.305297|57.892864|58.3534081596856016|Aug 08 03:06:56|30|114.914265|45.980486|80.122515|6.218292|-3.111613691252003|356.499644495617758|-76.308459|57.482752|61.1299841596856017|Aug 08 03:06:57|30|114.914265|45.980486|80.122515|6.218292|-3.111806742782562|356.502545705456498|-76.311621|56.018944|59.5671041596856017|Aug 08 03:06:57|30|114.914265|45.980486|80.122515|6.218292|-3.111806742782562|356.502545705456498|-76.311621|57.914880|58.3994881596856018|Aug 08 03:06:58|30|114.914265|45.980486|80.122515|6.218292|-3.111999634441005|356.505446926490436|-76.314783|53.765888|54.2970881596856019|Aug 08 03:06:59|30|114.914265|45.980486|80.122515|6.218292|-3.112192366226395|356.508348158712465|-76.317945|56.198400|56.8007681596856019|Aug 08 03:06:59|30|114.914265|45.980486|80.122515|6.218292|-3.112192366226395|356.508348158712465|-76.317945|57.642496|58.2686721596856020|Aug 08 03:07:00|30|114.914265|45.980486|80.122515|6.218292|-3.112384938137410|356.511249402111162|-76.321107|54.851840|58.2003201596856021|Aug 08 03:07:01|30|114.914265|45.980486|80.122515|6.218292|-3.112577350173055|356.514150656678567|-76.324269|55.264768|56.0046081596856021|Aug 08 03:07:01|30|114.914265|45.980486|80.122515|6.218292|-3.112577350173055|356.514150656678567|-76.324269|53.705216|54.2277121596856022|Aug 08 03:07:02|30|114.914265|45.980486|80.122515|6.218292|-3.112769602332250|356.517051922405301|-76.327431|55.170816|58.7845121596856023|Aug 08 03:07:03|30|114.914265|45.980486|80.122515|6.218292|-3.112961694613915|356.519953199283407|-76.330593|54.157312|58.1583361596856023|Aug 08 03:07:03|30|114.914265|45.980486|80.122515|6.218292|-3.112961694613915|356.519953199283407|-76.330593|53.819392|54.3626241596856024|Aug 08 03:07:04|30|114.914265|45.980486|80.122515|6.218292|-3.113153627016871|356.522854487302482|-76.333755|54.445056|55.1226881596856025|Aug 08 03:07:05|30|114.914265|45.980486|80.122515|6.218292|-3.113345399539980|356.525755786452237|-76.336917|55.802624|59.9482881596856026|Aug 08 03:07:06|30|114.914265|45.980486|80.122515|6.218292|-3.113537012182178|356.528657096724544|-76.340079|56.136192|57.6642561596856026|Aug 08 03:07:06|30|114.914265|45.980486|80.122515|6.218292|-3.113537012182178|356.528657096724544|-76.340079|55.588608|60.5844481596856027|Aug 08 03:07:07|30|114.914265|45.980486|80.122515|6.218292|-3.113728464942355|356.531558418110308|-76.343241|59.346688|61.2823041596856028|Aug 08 03:07:08|30|114.914265|45.980486|80.122515|6.218292|-3.113919757819474|356.534459750601286|-76.346403|56.136192|57.0521601596856028|Aug 08 03:07:08|30|114.914265|45.980486|80.122515|6.218292|-3.113919757819474|356.534459750601286|-76.346403|59.128832|62.9173761596856029|Aug 08 03:07:09|30|114.914265|45.980486|80.122515|6.218292|-3.114110890812313|356.537361094186167|-76.349565|54.486528|58.1260801596856030|Aug 08 03:07:10|30|114.914265|45.980486|80.122515|6.218292|-3.114301863919863|356.540262448856822|-76.352727|53.617920|54.1437441596856030|Aug 08 03:07:10|30|114.914265|45.980486|80.122515|6.218292|-3.114301863919863|356.540262448856822|-76.352727|53.517312|56.9607681596856031|Aug 08 03:07:11|30|114.914265|45.980486|80.122515|6.218292|-3.114492677140987|356.543163814603986|-76.355889|55.684608|59.5793921596856032|Aug 08 03:07:12|30|114.914265|45.980486|80.122515|6.218292|-3.114683330474719|356.546065191420780|-76.359051|58.686976|59.4086401596856032|Aug 08 03:07:12|30|114.914265|45.980486|80.122515|6.218292|-3.114683330474719|356.546065191420780|-76.359051|56.086528|59.8661121596856033|Aug 08 03:07:13|30|114.914265|45.980486|80.122515|6.218292|-3.114873823919709|356.548966579293449|-76.362213|56.079872|59.8978561596856034|Aug 08 03:07:14|30|114.914265|45.980486|80.122515|6.218292|-3.115064157474976|356.551867978215114|-76.365376|55.727872|56.2227201596856034|Aug 08 03:07:14|30|114.914265|45.980486|80.122515|6.218292|-3.115064157474976|356.551867978215114|-76.365376|54.100480|54.6068481596856035|Aug 08 03:07:15|30|114.914265|45.980486|80.122515|6.218292|-3.115254331139440|356.554769388176396|-76.368538|53.830912|54.3165441596856036|Aug 08 03:07:16|30|114.914265|45.980486|80.122515|6.218292|-3.115444344911992|356.557670809168258|-76.371700|59.633920|60.174336

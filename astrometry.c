@@ -22,9 +22,9 @@
 
 #define _USE_MATH_DEFINES
 /* Longitude and latitude constants (deg) */
-#define backyard_lat   40.79149378
-#define backyard_long -73.68089614
-#define backyard_hm    58.17
+#define backyard_lat   39.99102086
+#define backyard_long -75.24094113
+#define backyard_hm    75.03
 
 engine_t * engine = NULL;
 solver_t * solver = NULL;
@@ -282,16 +282,17 @@ int lostInSpace(double * star_x, double * star_y, double * star_mags, unsigned
     	    return sol_status;
     	}
 
-		if (fprintf(fptr, "%i|%lf|%lf|%lf|%lf|%.15f|%.15f|%lf|%f", num_blobs, 
-		            all_astro_params.ra, all_astro_params.dec, 
+		if (fprintf(fptr, "%i|%lf|%lf|%lf|%lf|%lf|%lf|%.15f|%.15f|%lf|%f", num_blobs, 
+		            all_astro_params.ra, ra, all_astro_params.dec, dec,
 					all_astro_params.fr, all_astro_params.ps, 
 					all_astro_params.alt, all_astro_params.az, 
 					all_astro_params.ir, astrom_time*1e-6) < 0) {
 			fprintf(stderr, "Error writing solution to observing file: %s.\n", 
 			        strerror(errno));
-		}
+		}		
 		fflush(fptr);
 		fclose(fptr);
+
 
 		// we achieved a solution!
 		sol_status = 1;

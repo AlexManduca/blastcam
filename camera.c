@@ -51,11 +51,11 @@ struct blob_params all_blob_params = {
     .high_pass_filter = 0,         
     .r_high_pass_filter = 10,     
     .centroid_search_border = 1,  
-    .filter_return_image = 0,      
+    .filter_return_image = 1,      
     .n_sigma = 2.0,               
     .unique_star_spacing = 15,    
     .make_static_hp_mask = 0,     
-    .use_static_hp_mask = 1,       
+    .use_static_hp_mask = 0,       
 };
 
 /* Helper function to determine if a year is a leap year (2020 is a leap year).
@@ -427,6 +427,9 @@ int loadCamera() {
 	if (is_AllocImageMem(camera_handle, sensorInfo.nMaxWidth, 
                          sensorInfo.nMaxHeight, color_depth, &mem_starting_ptr, 
                          &mem_id) != IS_SUCCESS) {
+    // if (is_AllocImageMem(camera_handle, CAMERA_WIDTH, 
+    //                      CAMERA_HEIGHT, color_depth, &mem_starting_ptr, 
+    //                      &mem_id) != IS_SUCCESS) {
 		cam_error = printCameraError();
         printf("Error allocating image memory: %s.\n", cam_error);
         return -1;
@@ -831,9 +834,9 @@ int findBlobs(char * input_buffer, int w, int h, double ** star_x,
         printf("\n+---------------------------------------------------------+\n");
         printf("|\t\tBlob-finding calculations\t\t  |\n");
         printf("|---------------------------------------------------------|\n");
-        printf("|\tMean = %f\t\t\t\t\t  |\n", mean);
-        printf("|\tSigma = %f\t\t\t\t  |\n", sigma);
-        printf("|\tRaw mean = %f\t\t\t\t  |\n", mean_raw);
+        printf("|\tMean\t = %8f\t\t\t\t  |\n", mean);
+        printf("|\tSigma\t = %8f\t\t\t\t  |\n", sigma);
+        printf("|\tRaw mean = %8f\t\t\t\t  |\n", mean_raw);
         printf("+---------------------------------------------------------+\n");
     }
 
@@ -1077,7 +1080,7 @@ int doCameraAndAstrometry() {
     static int num_focus_pos;
     static int * blob_mags;
     int blob_count;
-    char datafile[100], buff[100], date[256], af_filename[256];
+    char handleChar[4], datafile[100], buff[100], date[256], af_filename[256];
     wchar_t filename[200] = L"";
     struct timespec camera_tp_beginning, camera_tp_end; 
     time_t seconds = time(NULL);
@@ -1107,8 +1110,10 @@ int doCameraAndAstrometry() {
     }
 
     // data file to pass to lostInSpace
+    sprintf(handleChar,"%i",camera_handle); // store camera_handle as char
     strftime(datafile, sizeof(datafile), 
-             "/home/blast/Desktop/blastcam/data_%b-%d.txt", tm_info);
+            "/home/blast/Desktop/blastcam/data_%b-%d_", tm_info);
+    strcat(datafile,strcat(handleChar,".txt")); // concatenate handle #
     
     // set file descriptor for observing file to NULL in case of previous bad
     // shutdown or termination of Astrometry
@@ -1174,8 +1179,9 @@ int doCameraAndAstrometry() {
         fprintf(fptr, "Auto black level (should be off): %i\n", bl_mode);
         fprintf(fptr, "Black level offset (desired is 50): %i\n", bl_offset);
 
-        // write header to data file
-        if (fprintf(fptr, "\nC time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|"
+        //write header to data file
+        if (fprintf(fptr, "\nC time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|"
+                          "Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|"
                           "ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time "
                           "(msec)|Camera time (msec)") < 0) {
             fprintf(stderr, "Error writing header to observing file: %s.\n", 
@@ -1276,16 +1282,16 @@ int doCameraAndAstrometry() {
     }
 
     // take an image
-    // if (verbose) {
-    //      printf("\n> Taking a new image...\n\n");
-    // }
+    if (verbose) {
+         printf("\n> Taking a new image...\n\n");
+    }
 
-    // taking_image = 1;
-    // if (is_FreezeVideo(camera_handle, IS_WAIT) != IS_SUCCESS) {
-    //     const char * last_error_str = printCameraError();
-    //     printf("Failed to capture new image: %s\n", last_error_str);
-    // } 
-    // taking_image = 0;
+    taking_image = 1;
+    if (is_FreezeVideo(camera_handle, IS_WAIT) != IS_SUCCESS) {
+       const char * last_error_str = printCameraError();
+       printf("Failed to capture new image: %s\n", last_error_str);
+    } 
+    taking_image = 0;
 
     // get the image from memory
     if (is_GetActSeqBuf(camera_handle, &buffer_num, &waiting_mem, &memory) 
@@ -1295,17 +1301,17 @@ int doCameraAndAstrometry() {
     }
 
     // testing pictures that have already been taken 
-    if (loadDummyPicture(L"/home/blast/Desktop/blastcam/BMPs/load_image.bmp", 
-                         &memory) == 1) {
-        if (verbose) {
-            printf("Successfully loaded test picture.\n");
-        }
-    } else {
-        fprintf(stderr, "Error loading test picture: %s.\n", strerror(errno));
-        // can't solve without a picture to solve on!
-        usleep(1000000);
-        return -1;
-    }
+    // if (loadDummyPicture(L"/home/blast/Desktop/blastcam/BMPs/2020-01-07--00-14-38--894_11114_to_14374.bmp", &memory) == 1) {
+    // if (loadDummyPicture(L"/home/blast/Desktop/blastcam/BMPs/saved_image_2021-03-21_04:43:26.bmp", &memory) == 1) {
+    //     if (verbose) {
+    //         printf("Successfully loaded test picture.\n");
+    //     }
+    // } else {
+    //     fprintf(stderr, "Error loading test picture: %s.\n", strerror(errno));
+    //     // can't solve without a picture to solve on!
+    //     usleep(1000000);
+    //     return -1;
+    // }
 
     // find the blobs in the image
     blob_count = findBlobs(memory, CAMERA_WIDTH, CAMERA_HEIGHT, &star_x, 

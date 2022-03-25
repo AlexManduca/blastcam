@@ -1,0 +1,49 @@
+********************* November 05 Observing Session - beginning 20:00:26 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1636142426|Nov 05 20:00:26||439.1544321636142428|Nov 05 20:00:28||0.3299841636142429|Nov 05 20:00:29||0.354048********************* November 05 Observing Session - beginning 20:01:36 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1636142496|Nov 05 20:01:36||434.936832

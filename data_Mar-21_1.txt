@@ -1,0 +1,145 @@
+********************* March 21 Observing Session - beginning 19:45:23 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)********************* March 21 Observing Session - beginning 20:27:39 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)********************* March 21 Observing Session - beginning 20:38:49 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)********************* March 21 Observing Session - beginning 20:47:06 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)********************* March 21 Observing Session - beginning 20:51:28 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1647896080|Mar 21 20:54:40||2122.1063681647896084|Mar 21 20:54:44||1500.1085441647896087|Mar 21 20:54:47||1541.807872********************* March 21 Observing Session - beginning 21:09:05 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|Observed RA (deg)|Astrometry RA (deg)|Observed DEC (deg)| Astrometry DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)

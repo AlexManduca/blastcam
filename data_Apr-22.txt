@@ -1,0 +1,49 @@
+********************* April 22 Observing Session - beginning 02:00:59 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1587520859|Apr 22 02:00:59|30|114.918718|45.983731|80.122515|6.218292|52.544306612309263|295.819368355890276|-1.371771|500.401920|500.8570881587520859|Apr 22 02:00:59|30|114.918718|45.983731|80.122515|6.218292|52.544306612309263|295.819368355890276|-1.371771|53.636608|54.3096321587520859|Apr 22 02:00:59|30|114.918718|45.983731|80.122515|6.218292|52.544306612309263|295.819368355890276|-1.371771|53.356032|53.9307521587520859|Apr 22 02:00:59|30|114.918718|45.983731|80.122515|6.218292|52.544306612309263|295.819368355890276|-1.371771|54.006016|54.516736********************* April 22 Observing Session - beginning 02:00:59 GMT *********************
+Camera model: UI326xCP-M
+----------------------------------------------------
+Exposure: 700.009406 milliseconds
+Pixel clock: 30
+Frame rate achieved (desired is 10): 1.428580
+Trigger delay (microseconds): 0
+Current trigger mode setting: 4104
+Current trigger timeout: 500
+Auto shutter: 0.0
+Auto frame rate (should be disabled): 0.0
+----------------------------------------------------
+Sensor ID/type: 550
+Sensor color mode (from is_GetSensorInfo and is_SetColorMode): 1 | 11
+Maximum image width and height: 1936, 1216
+Pixel size (micrometers): 5.86
+Gain settings: 0 for master gain, 125 for red gain, 125 for green gain, and 125 for blue gain.
+Auto gain (should be disabled): 0
+Gain boost (should be disabled): 0
+Hardware gamma (should be disabled): 0
+----------------------------------------------------
+Auto black level (should be off): 0
+Black level offset (desired is 50): 50
+
+C time|GMT|Blob #|RA (deg)|DEC (deg)|FR (deg)|PS|ALT (deg)|AZ (deg)|IR (deg)|Astrom. solve time (msec)|Camera time (msec)1587520859|Apr 22 02:00:59|30|114.918718|45.983731|80.122515|6.218292|52.544306612309263|295.819368355890276|-1.371771|504.277504|504.7905281587520859|Apr 22 02:00:59|30|114.918718|45.983731|80.122515|6.218292|52.544306612309263|295.819368355890276|-1.371771|58.392320|59.1938561587520859|Apr 22 02:00:59|30|114.918718|45.983731|80.122515|6.218292|52.544306612309263|295.819368355890276|-1.371771|57.779968|58.6542081587520859|Apr 22 02:00:59|30|114.918718|45.983731|80.122515|6.218292|52.544306612309263|295.819368355890276|-1.371771|56.431104|57.264128
